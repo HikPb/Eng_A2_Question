@@ -1,0 +1,129 @@
+/* CSS để tạo bố cục 2 cột và tạo kiểu cơ bản */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Kích hoạt Flexbox cho bố cục */
+    height: 100vh; /* Chiều cao đầy đủ của viewport */
+    overflow: hidden; /* Ngăn cuộn trang tổng thể */
+}
+
+/* Khu vực bên trái: Thanh tìm kiếm và Kết quả */
+#left-panel {
+    width: 30%; /* Chiếm 30% chiều rộng */
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-right: 2px solid #ccc;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto; /* Cho phép cuộn nếu nội dung kết quả quá dài */
+}
+
+#search-box {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#search-results {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Kiểu cho tiêu đề Phần trong kết quả tìm kiếm */
+#search-results li.part-header {
+    font-weight: bold;
+    background-color: #eef;
+    margin-top: 10px;
+    padding: 10px 5px;
+    border-bottom: 2px solid #ccc;
+    cursor: default;
+}
+
+#search-results li {
+    padding: 10px 5px;
+    cursor: pointer;
+    border-bottom: 1px dashed #ddd;
+    transition: background-color 0.3s;
+}
+
+#search-results li:hover {
+    background-color: #e2e2e7;
+}
+
+/* Kiểu cho kết quả tìm kiếm được chọn */
+.selected-result {
+    background-color: #cce5ff !important;
+    font-weight: bold;
+}
+
+/* Khu vực bên phải: Nội dung chính */
+#right-panel {
+    width: 70%; /* Chiếm 70% chiều rộng */
+    padding: 20px;
+    overflow-y: auto; /* Cho phép cuộn cho nội dung chính */
+    background-color: #ffffff;
+}
+
+.qa-part h2 {
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    color: #007bff;
+}
+
+.qa-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.qa-item h3 {
+    color: #333;
+    margin-top: 0;
+}
+
+.qa-item p {
+    color: #666;
+    line-height: 1.6;
+}
+
+.translate-content {
+    display: none; /* Mặc định ẩn nội dung dịch */
+    border-top: 1px dashed #ccc;
+    padding-top: 10px;
+    margin-top: 10px;
+    background-color: #e6f7ff; /* Màu nền nhẹ cho phần dịch */
+    padding: 10px;
+    border-radius: 3px;
+    font-style: italic;
+}
+
+.translate-content p {
+    color: #444;
+}
+
+/* Kiểu cho nút ẩn/hiện */
+.toggle-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.toggle-button:hover {
+    background-color: #0056b3;
+}

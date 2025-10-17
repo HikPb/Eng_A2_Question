@@ -1,0 +1,233 @@
+[
+	{
+		"title": "Phần I: Introduction  ",
+		"qas": [
+			{
+				"id": 1,
+				"question": "What’s your name?",
+				"answer": "My name is Chinh.",
+				"translate": "Mai nêm iz Chin."
+			},
+			{
+				"id": 2,
+				"question": "Can you spell your name?",
+				"answer": "It's C H I N H.",
+				"translate": "Its si, étch, ai, en, étch."
+			},
+			{
+				"id": 3,
+				"question": "Where are you from?",
+				"answer": "I’m from Ninh Binh, which is a province in the north west of Vietnam.",
+				"translate": "Ai em fròm Ninh Bình, wích iz ơ pró-vinz in dờ noóc uét óp Vi-ẹt-nam."
+			},
+			{
+				"id": 4,
+				"question": "What’s your phone number?",
+				"answer": "It's 0378406088",
+				"translate": "Its zí-râu, thri, se-vần, ét, fo, zí-râu, síx, zí-râu, ét, ét."
+			},
+			{
+				"id": 5,
+				"question": "Where were you born?",
+				"answer": "I was born in Ninh Bình.",
+				"translate": "Ai waz boocn in Ninh Bình."
+			},
+			{
+				"id": 6,
+				"question": "How many brothers and sisters do you have?",
+				"answer": "I have five brothers and one sister.",
+				"translate": "Ai hép fai brơ-dờz en oan sís-tờ."
+			},
+			{
+				"id": 7,
+				"question": "What kind of music do you like?",
+				"answer": "I enjoy listening to traditional Vietnamese folk music.",
+				"translate": "Ai én-doi lít-sờ-ning tu trơ-đí-sờ-nồ Vi-ẹt-nam-míz fôulk miu-zik."
+			},
+			{
+				"id": 8,
+				"question": "What do you like to do in your free time?",
+				"answer": "I enjoy planting flowers and gardening in my free time.",
+				"translate": "Ai én-doi plen-ting flau-ờz en ga-đờ-ning in mai fri taim."
+			},
+			{
+				"id": 9,
+				"question": "What sports do you enjoy playing?",
+				"answer": "I enjoy gentle jogging.\n (At my age, I prefer not to engage in sports that require too much strenuous activity. Light running is a great way to stay active without overdoing it!)",
+				"translate": "Ai én-doi gen-tồ jóc-ging.\n (Ép mai éid-dờ, ai pri-fờ nót tu én-gâyj in spoóc đét ri-quai-ờ tu múch strén-ni-ơs éc-ti-vi-ti. Lait ran-ning iz ơ grêit wey tu xtây éc-tiv wít-đau âu-vờ-đuing ít!)"
+			},
+			{
+				"id": 10,
+				"question": "What are your hobbies?",
+				"answer": "My hobbies are cooking, gardening, and planting flowers.\n (I find a lot of pleasure in creating things, whether it's a delicious meal or a beautiful garden.)",
+				"translate": "Mai hó-biiz a cuốc-king, ga-đờ-ning, en plen-ting flau-ờz.\n (Ai fai-n đờ lót óp plé-zhờ in kri-ê-ting thinh, we-đờ its ơ đi-lí-sờs miu óc ơ biu-ti-ful ga-đờn.)"
+			},
+			{
+				"id": 11,
+				"question": "How many hours a day do you work?",
+				"answer": "I work 8 hours a day.\n (The rest of my time is dedicated to taking care of my family.)",
+				"translate": "Ai wooc k êit au-ờz ơ đây.\n (Dờ rést óp mai taim iz đe-đi-câi-tịt tu têi-king ke óp mai fa-mờ-ly.)"
+			},
+			{
+				"id": 12,
+				"question": "Do you live in a house or a flat?",
+				"answer": "I live in a house with my family.",
+				"translate": "Ai líp in ơ hau-s wít mai fa-mờ-ly."
+			},
+			{
+				"id": 13,
+				"question": "How many languages can you speak",
+				"answer": "I can speak two languages: English and Vietnamese.",
+				"translate": "Ai ken xpík tu leng-gwì-jiz: Íng-lísh en Vi-ẹt-nam-míz."
+			},
+			{
+				"id": 14,
+				"question": "Why are you learning English?",
+				"answer": "I am learning English for my work and to better integrate into the globalized world.\n (It's a necessary skill for my professional life and helps me connect with the international community.)",
+				"translate": "Ai em lơ-ning Íng-lísh for mai woóc en tu bét-tờ ín-tờ-grêit in-tu dờ glô-bờ-lai-z đờ woocl.\n (Its ơ né-sờ-se-ri skil for mai prô-fé-sờ-nồ lai-p en hel-s mi cờ-néc wít dờ ín-tờ-ná-sờ-nồ cờ-miu-ni-ti.)"
+			},
+			{
+				"id": 15,
+				"question": "What do you enjoy doing in your free time?",
+				"answer": "I enjoy gardening, planting trees and flowers, and then watching them to relax.\n (Spending time with nature is a wonderful way to unwind and find peace.)",
+				"translate": "Ai én-doi ga-đờ-ning, plen-ting triiz en flau-ờz, en den wót-ching đờm tu ri-lác-s.\n (Xpen-ding taim wít nây-chờ iz ơ wăn-đờ-ful wey tu ăn-wain en fain piis.)"
+			}
+		]
+	},
+    {
+        "title": "Phần II: Situation",
+        "qas": [
+            { 
+                "id": 16, 
+                "question": "You are at the railway station. You want to ask for the departure time of the train from Hanoi to Haiphong. Make questions.", 
+                "answer": "- What time does the train from Hanoi to Haiphong depart?\n- When does the train depart?\n- What is the departure time?", 
+                "translate": "" 
+            },
+            { 
+                "id": 17, 
+                "question": "You are at the supermarket. You want to ask for the price of a T-shirt. Make questions.", 
+                "answer": "- How much does it cost?\n- How much is it?\n- What is the price of this T-shirt?", 
+                "translate": "" 
+            },
+            { 
+                "id": 18, 
+                "question": "You want to ask for the way to the police station. Make questions.", 
+                "answer": "- Excuse me, can you show me the way to the police station?\n- Could you tell me the way to get to the police station?\n- How do I get to the police station?", 
+                "translate": "" 
+            },
+            { 
+                "id": 19, 
+                "question": "You are at the airport. You want to ask for the arrival time of the flight from Ho Chi Minh City. Make questions.", 
+                "answer": "- What time does the flight from Ho Chi Minh City arrive?\n- When does the flight arrive?\n- What is the arrival time of the flight from Ho Chi Minh City?", 
+                "translate": "" 
+            },
+            { 
+                "id": 20, 
+                "question": "You are on the phone. You want to talk to the manager of a company. How do you say to the receptionist?", 
+                "answer": "- May I speak to the manager, please?\n- Could I talk to the manager, please?", 
+                "translate": "" 
+            },
+            { 
+                "id": 21, 
+                "question": "You are at the restaurant. You want to have some bread and steak for dinner. Make orders to the waiter/waitress.", 
+                "answer": "- Can I get some bread and steak, please?\n- Can I order some bread and steak, please?\n- I’d like bread and steak.\n- I’ll take/have some bread and steak.", 
+                "translate": "" 
+            },
+            { 
+                "id": 22, 
+                "question": "You are at the stadium. You want to ask for the time of a football match. Make questions.", 
+                "answer": "- What is the time of the football match?\n- When does the football match take place/start?\n- What time does the football match end/finish?", 
+                "translate": "" 
+            },
+            { 
+                "id": 23, 
+                "question": "You are at the school. You want to ask for time of the English lessons. Make questions.", 
+                "answer": "- What is the time of the English lesson?\n- When does the English lesson take place/start?\n- What time does the English lesson end/finish?", 
+                "translate": "" 
+            },
+            { 
+                "id": 24, 
+                "question": "You want to ask one of your friends to go to the cinema with you this weekend. How do say to him/her?", 
+                "answer": "- Would you like to go to the cinema with me this weekend?\n- Shall we go to the cinema this weekend?\n- Let’s go to the cinema this weekend!\n- How about/What about going to the cinema with me this weekend?", 
+                "translate": "" 
+            },
+            { 
+                "id": 25, 
+                "question": "You are at the bookshop. You want to ask for the price of an English-Vietnamese dictionary. Make questions to the assistant.", 
+                "answer": "- How much does it cost?\n- How much is it?\n- What is the price of this English-Vietnamese dictionary?", 
+                "translate": "" 
+            }
+        ]
+    },
+    {
+        "title": "Phần III: Topic",
+        "qas": [
+            { 
+                "id": 26, "question": "Chủ điểm 1: Talk about your day at school.", 
+                "answer": "You should say: \n + What time it starts. \n I start work at 8 o'clock and continue until 11:30. I spend one hour on having lunch at the cafeteria of my office. I do my work until 5.00 p.m.  \n + What you do during the day. \n I usually get up at 6.00 a.m and prepare breakfast for my family. I do my work until 5.00 p.m and then go to pick up my children at school. We had dinner at 7 o'clock. \n + What you often do after class /work . \n My children and I of ten go to the park to play some games for relaxation. \n\n Suggested answer:  \n I usually get up at 6 .00 a.m and then get a shower. \nI often prepare breakfast for my family. \nWe like eating noodles or sticky rice. \nLater, I am responsible for taking my children to school. \nIt takes me 30 minutes to go to work because of the traffic jam. \nWe start work at 8 o’clock and continue until 11:30. \nI spend one hour on having lunch at the cafeteria of my office. \nI do my work until 5.00 p.m and then go to pick up my children at school. \nMy children and I often go to the park to play some games for relaxation. \nWe had dinner at  7 o’clock. \nMy family love watching movie together for a while. \nThen, it’s bedtime. \nWe must get rest to prepare for the coming day.", 
+                "translate": "" 
+            },
+            {
+                "id": 27,
+                "question": "Chủ điểm 2: Talk about your last summer holiday.",
+                "answer": "You should say: \n + Where you went. \n Last year, I spent my holiday by Vung Tau seaside with my family. \n + What you did there. \n We sat under large beach umbrellas, ate crabs and clams. We also sunbathed on the beach or swam in the sea. \n + Whether you enjoyed it or not. \n I love the trip so much because the beach has the liveliest scenery we have ever seen. \n\n Suggested answer: \n Last year, I spent my holiday by Vung Tau seaside with my family. \nIn the early morning from HCM city, we got there by bus. \nOn the way to Vung Tau resort, we met a lot of our friends, who also went there to escape from the terrible heat of a crowded city. \nAlthough the beach was crammed with people, we still felt more relaxed by the fresh morning air coming in from the open sea. \nOn the beach children were running here and there, gathering choice pebbles, shells and seaweeds. \nOthers were busy digging sand to catch little crabs. \nGroups of holiday-makers were sitting under large beach umbrellas, eating crabs and clams while others in their bathing-costumes were sunbathing on the beach or swimming in the sea. \nHow delighted we were when we dived down into the fresh cool water and took a long leisurely swim. \nThe splash of waves against the rocks, the merry shouting and laughter of holiday-makers created the liveliest scenery we have ever seen.",
+                "translate": ""
+            },
+            {
+                "id": 28,
+                "question": "Chủ điểm 3: Talk about your family.",
+                "answer": "You should say: \n + How many members there are in your family. \n + Who they are. \n + Where your family is living now. \n\n Suggested answer: \n I am a policeman at Hanoi Police Station. \nI am married and have two children. \nMy wife is 33 years old. \nShe works as a teacher of English at the People’s Security Academy. \nShe is tall and pretty. \nShe is always gentle and sociable with everybody. \nShe cooks very well and often spends a lot of time on cooking. \nI have a son and a daughter. \nMy son is 6 years old. \nHe studies at Thanh Cong Primary school. \nHe is very active and clever. \nHe loves playing football and volleyball. \nMy daughter is only three years old. \nShe is very dynamic and cute. \nShe loves singing and dancing. \nI love my family very much. \nIt is the place that I feel warm and safe.",
+                "translate": ""
+            },
+            {
+                "id": 29,
+                "question": "Chủ điểm 4: Talk about a place you would like to go in your free time.",
+                "answer": "You should say: \n + Where it is. \n The most interesting place that I would like to visit is Ho Chi Minh city. It is a young dynamic city of Vietnam. \n + What you often do there. \n We would go to Ben Thanh market which has a full collection of all goods and products from every part of Vietnam. \n + Why you like to go there in your free time. \n I’d like to go there because I can feel a bustling air, exciting modern life. \n\n Suggested answer: \n The most interesting place that I would like to visit is Ho Chi Minh city. \nIt is a young dynamic city of Vietnam. \nComing to HCM city, tourists will feel a bustling air, exciting modern life. \nHowever, HCM city has preserved and remained its previous cultural tradition inside it. \nThe streets are often crowded and people are always rushing as if they would be late for some appointment with someone. \nHigh buildings, luxurious hotels, fashion shops, souvenirs stores, etc are places taking much time of travelers. \nBen Thanh market is considered a highlight that tourists had not better miss. \nThe market is one of some HCM attractions full collection of all goods and products from every part of Vietnam. \nDespite of the noisy bustling urban of the modern life, HCM city keeps for its own romantic sights of streets with shades of trees such as Tu Xuong, Truong Dinh, Le Duan…, all of which gently offer natural air for visitors to take a stroll sightseeing.",
+                "translate": ""
+            },
+            {
+                "id": 30,
+                "question": "Chủ điểm 5: Talk about your favourite season in a year.",
+                "answer": "You should say: \n + Which season it is. \n I love all the seasons but I think my favourite is Spring. \n + What the weather is like in the season. \n In Vietnam, Spring lasts from January to April. In early Spring, our weather can be anything from freezing cold to warm and sunny, but later in the season it gets consistently warmer. \n + Why you like it. \n I love Spring because everything is growing, fresh and new. One of the best things about Spring is that the plants and trees come to life again, especially in the countryside. \n\n Suggested answer: \n I love all the seasons but I think my favourite is Spring. \nIn Vietnam, Spring lasts from January to April. \nIn early Spring, our weather can be anything from freezing cold to warm and sunny, but later in the season it gets consistently warmer. \nI love Spring because everything is growing, fresh and new. \nOne of the best things about Spring is that the plants and trees come to life again, especially in the countryside. \nOn the trees, we can see new leaves growing. \nFruit trees, such as cherry and apple trees, develop beautiful pink and white blossoms, and colourful flowers such as daffodils and crocuses bloom in parks and gardens. \nThe sounds of spring are wonderful too, when birds start singing more as they look for a mate and then start building their nests. \nMoreover, it is time for people to have a great time on traditional Tet holiday. \nFinally, it is not just the countryside that comes to life again in Spring. \nIn towns and cities, cafes, pubs and restaurants start putting their tables outside again, and people sit in the sun drinking and eating. \nThe parks are full of people walking, cycling and playing sport. \nIt’s a fantastic season!",
+                "translate": ""
+            },
+			{
+				"id": 31,
+				"question": "Chủ điểm 6: Talk about your favourite teacher.",
+				"answer": "You should say: \n + Who he/she is. \n My favourite teacher was Mrs. Hoa who had taught me English for 2 years. \n + How he/she looks like. \n She had sparkle eyes and dark hair. She‘s just a bit taller than I was. She always smiled to us as we saw each other in the hallway at school. She seemed very strict when I first met her. However, we had a lot of fun from the jokes in English during her classes. \n + Why you like him/her. \n Because she’s a very helpful person. \n\n Suggested answer: \n My favourite teacher was Mrs. Hoa who had taught me English for 2 years. \nShe studied in America and then came back to Vietnam to be an English teacher. \nShe had sparkle eyes and dark hair. \nShe‘s just a bit taller than I was. \nShe always smiled to us as we saw each other in the hallway at school. \nShe seemed very strict when I first met her. \nHowever, we had a lot of fun from the jokes in English during her classes. \nShe had skills at teaching, sense of humour, friendly, patient and easy going. \nShe’s very patient and enthusiastic to teach us whenever we had questions in her classes. \nMoreover, she would stay at school after school finished for hours to solve the problems that we had in her class. \nShe encouraged us to do voluntary work after school or at weekends. \nShe led a group of students to do lots different kinds of services for charity such as cleaning houses for seniors who lived by themselves; leading blind people to walk in the street regularly and planting bushes for the protesting environment organization. \nShe’s a very helpful person.",
+				"translate": ""
+			},
+			{
+				"id": 32,
+				"question": "Chủ điểm 7: Talk about your best friend.",
+				"answer": "You should say: \n + Who he/she is. \n To me, one of my best friends is Nam. \n + How he/she looks like. \n Nam is only over eighteen but he is well developed; so he is thought to be twenty or more. He has black hair, a broad forehead, a straight nose and bright eyes. He is very good-looking. He has a kind heart and is easy to get on with everybody. \n + Why he/she is your best friend. \n I like Nam very much because of his honesty and straightforwardness. \n\n Suggested answer: \n To me, one of my best friends is Nam. \nNam is only over eighteen but he is well developed; so he is thought to be twenty or more. \nHe has black hair, a broad forehead, a straight nose and bright eyes. \nHe is very good-looking. \nHe has a kind heart and is easy to get on with everybody. \nWe have been friends for a very long time. \nThe deeper our mutual understanding becomes the more we feel closely attached to each other. \nNam and I are keen on learning. \nWe are the best pupils in our class. \nHe is good at every subject, but he never shows pride in his abilities and always tries to learn harder. \nI like Nam very much because of his honesty and straightforwardness. \nHe is always ready to help his weak friends in their study; as a result, lots of friends, thanks to his whole-hearted help, have become good ones.",
+				"translate": ""
+			},
+			{
+				"id": 33,
+				"question": "Chủ điểm 8: Talk about one of your house/flat.",
+				"answer": "You should say: \n + Where it is. \n I live in a house in the center of Hanoi. It is near my office and the market. \n + What it looks like. \n There are 7 rooms in my house: 3 bedrooms, a living room, a dining room, a library and one room for my children to play in. \n + Whether you like to live in it or not. \n I love this house so much. This ideal house is the motivation for me to work harder and harder. \n\n Suggested answer: \n I live in a house in the center of Hanoi. \nIt is near my office and the market. \nThe house is big enough for my family to live in. \nThere are 7 rooms in my house: 3 bedrooms, a living room, a dining room, a library and one room for my children to play in. \nAll the rooms in my house are well-equipped with Westernized home decoration. \nIn the front yard there has a medium swimming pool. \nThere is a garden full of flowers and trees in the back yard. \nThis is the place where my family can relax after a hard-working day or organize barbecues at weekends. \nWe plant a lot of fruit trees so that we can have many fruits to eat. \nThis ideal house is the motivation for me to work harder and harder.",
+				"translate": ""
+			},
+			{
+				"id": 34,
+				"question": "Chủ điểm 9: Talk about one of your hobbies.",
+				"answer": "You should say: \n + What it is. \n + Where and when you do it. \n + Why you like doing this. \n\n Suggested answer: \n In my free time, I like doing many things. \nThere are a lot of English football matches at the weekends, so I like watching football on T.V at that time. \nIn the afternoon, I love playing football with my colleagues. \nWe often organize football matches with other offices. \nWhen I am free, I enjoy reading books, especially romantic and detective books. \nEvery Saturday, I go swimming at Ba Dinh swimming pool with my children. \nWe have a lot of fun together. \nAfter that, my family and I often go to the restaurant or to cinema. \nWe are fond of horrible films, action films and cartoons. \nThat is the happiest time in the whole hard-working week.",
+				"translate": ""
+			},
+			{
+				"id": 35,
+				"question": "Chủ điểm 10: Talk about you hometown/home village.",
+				"answer": "You should say: \n + Where your hometown/home village is. \n My hometown is the capital of Hanoi which is famous for beautiful sceneries and historical places. \n + Famous tourist attraction(s) in your hometown/home village. \n There are a lot of well-known places such as One-pillar pagoda, Sword Lake, Ho Chi Minh Mausoleum and Ancient Quarters. In addition, there are many other interesting places to visit such as Bat Trang Ceramic village or Ha Dong silk village. \n + Whether you like to live in your hometown/home village or not. \n I want to live in Hanoi because that is the place I feel the most peaceful and comfortable. \n\n Suggested answer: \n My hometown is the capital of Hanoi which is famous for beautiful sceneries and historical places. \nHanoi is the center of culture, politics and economy in Vietnam. \nNowadays, Hanoi is widened to Ha Tay and Soc Son province. \nHanoi has a population of over 10 million people. \nMany tourists like visiting well-known places such as One-pillar pagoda, Sword Lake, Ho Chi Minh Mausoleum and Ancient Quarters. \nIn addition, there are many other interesting places to visit such as Bat Trang Ceramic village or Ha Dong silk village. \nHanoians are very friendly, hard-working, hospitable, honest and polite. \nThe food in Hanoi is very delicious and plentiful. \nPeople love to taste special dishes such as Pho and Nem Cuon. \nI love my hometown a lot. \nThat is the place I feel the most peaceful and comfortable.",
+				"translate": ""
+			}
+        ]
+    },
+    {
+        "title": "Phần IV: Discussion",
+        "qas": [
+            { "id": 36, "question": "---", "answer": "---", "translate": "---" }
+        ]
+    }
+
+]
