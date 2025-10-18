@@ -100,8 +100,8 @@ function displayAnswer(qaId) {
             <div class="qa-item">
                 <h2>${foundQa.question}</h2>
                 <p>${formattedAnswer}</p>
-                <button id="detail-toggle-button" class="toggle-button">Thêm</button>
-                <div id="detail-translate-content" class="translate-content">
+                <button id="detail-toggle-button" class="toggle-button">Ẩn</button>
+                <div id="detail-translate-content" class="translate-content" style="display:block;">
                     <h4>Nội dung tiếng Anh:</h4>
                     <p>${formattedTranslate}</p>
                 </div>

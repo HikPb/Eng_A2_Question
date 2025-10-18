@@ -4,230 +4,235 @@
 		"qas": [
 			{
 				"id": 1,
-				"question": "What’s your name?",
-				"answer": "My name is Chinh.",
-				"translate": "Mai nêm iz Chin."
+				"question": "What’s your name? - Tên bạn là gì?",
+				"answer": "My name is Chinh.\n\n[Dịch:]\nTên tôi là Chinh.",
+				"translate": "MAI NÊM i-dờ CHINH."
 			},
 			{
 				"id": 2,
-				"question": "Can you spell your name?",
-				"answer": "It's C H I N H.",
-				"translate": "Its si, étch, ai, en, étch."
+				"question": "Can you spell your name? - Bạn có thể đánh vần tên của bạn không?",
+				"answer": "It's C H I N H.\n\n[Dịch:]\nLà C H I N H.",
+				"translate": "ÍT SỜ SI, ÉT chờ, AI, EN, ÉT chờ."
 			},
 			{
 				"id": 3,
-				"question": "Where are you from?",
-				"answer": "I’m from Ninh Binh, which is a province in the north west of Vietnam.",
-				"translate": "Ai em fròm Ninh Bình, wích iz ơ pró-vinz in dờ noóc uét óp Vi-ẹt-nam."
+				"question": "Where are you from? - Bạn đến từ đâu?",
+				"answer": "I’m from Ninh Binh, which is a province in the north west of Vietnam.\n\n[Dịch:]\nTôi đến từ Ninh Bình, đó là một tỉnh ở phía tây bắc của Việt Nam.",
+				"translate": "AI EM fròm NINH BÌNH, wích i-dờ ờ PRÓ-VIN-sờ in dờ NOÓC GUÉT ỢP VI-ẸT-NAM."
 			},
 			{
 				"id": 4,
-				"question": "What’s your phone number?",
-				"answer": "It's 0378406088",
-				"translate": "Its zí-râu, thri, se-vần, ét, fo, zí-râu, síx, zí-râu, ét, ét."
+				"question": "What’s your phone number? - Số điện thoại của bạn là gì?",
+				"answer": "It's 0378406088\n\n[Dịch:]\nLà 0378406088",
+				"translate": "ÍT SỜ ZÊ-RÂU, THỜ-RI, SE-VẦN, ẾT, FO, ZÊ-RÂU, SÍC sờ, ZÊ-RÂU, ẾT, ẾT."
 			},
 			{
 				"id": 5,
-				"question": "Where were you born?",
-				"answer": "I was born in Ninh Bình.",
-				"translate": "Ai waz boocn in Ninh Bình."
+				"question": "Where were you born? - Bạn sinh ra ở đâu?",
+				"answer": "I was born in Ninh Bình.\n\n[Dịch:]\nTôi sinh ra ở Ninh Bình.",
+				"translate": "AI guốt BON-NỜ in NINH BÌNH."
 			},
 			{
 				"id": 6,
-				"question": "How many brothers and sisters do you have?",
-				"answer": "I have five brothers and one sister.",
-				"translate": "Ai hép fai brơ-dờz en oan sís-tờ."
+				"question": "How many brothers and sisters do you have? - Bạn có bao nhiêu anh em/chị em?",
+				"answer": "I have five brothers and one sister.\n\n[Dịch:]\nTôi có năm anh em trai và một chị em gái.",
+				"translate": "AI HÉP FAI BỜ-RƠ-DỜ EN OĂN SÍS-TỜ."
 			},
 			{
 				"id": 7,
-				"question": "What kind of music do you like?",
-				"answer": "I enjoy listening to traditional Vietnamese folk music.",
-				"translate": "Ai én-doi lít-sờ-ning tu trơ-đí-sờ-nồ Vi-ẹt-nam-míz fôulk miu-zik."
+				"question": "What kind of music do you like? - Bạn thích loại nhạc nào?",
+				"answer": "I enjoy listening to traditional Vietnamese folk music.\n\n[Dịch:]\nTôi thích nghe nhạc dân ca truyền thống Việt Nam.",
+				"translate": "AI EN-DOI LÍT ning tu TRỜ-ĐÍ-SỜ-NỒ VI-ẸT-NAM-MÍZ FÔL-Cờ MIU-DÍCH."
 			},
 			{
 				"id": 8,
-				"question": "What do you like to do in your free time?",
-				"answer": "I enjoy planting flowers and gardening in my free time.",
-				"translate": "Ai én-doi plen-ting flau-ờz en ga-đờ-ning in mai fri taim."
+				"question": "What do you like to do in your free time? - Bạn thích làm gì vào thời gian rảnh?",
+				"answer": "I enjoy planting flowers and gardening in my free time.\n\n[Dịch:]\nTôi thích trồng hoa và làm vườn vào thời gian rảnh.",
+				"translate": "AI EN-DOI PỜ-LEN-TING FỜ-LAU-Ờ EN GA-ĐỜ-NING in MAI FỜ-RI THAM."
 			},
 			{
 				"id": 9,
-				"question": "What sports do you enjoy playing?",
-				"answer": "I enjoy gentle jogging.\n (At my age, I prefer not to engage in sports that require too much strenuous activity. Light running is a great way to stay active without overdoing it!)",
-				"translate": "Ai én-doi gen-tồ jóc-ging.\n (Ép mai éid-dờ, ai pri-fờ nót tu én-gâyj in spoóc đét ri-quai-ờ tu múch strén-ni-ơs éc-ti-vi-ti. Lait ran-ning iz ơ grêit wey tu xtây éc-tiv wít-đau âu-vờ-đuing ít!)"
+				"question": "What sports do you enjoy playing? - Bạn thích chơi môn thể thao nào?",
+				"answer": "I enjoy gentle jogging.\n (At my age, I prefer not to engage in sports that require too much strenuous activity. Light running is a great way to stay active without overdoing it!)\n\n[Dịch:]\nTôi thích chạy bộ nhẹ nhàng.\n (Ở tuổi tôi, tôi không thích tham gia các môn thể thao đòi hỏi quá nhiều hoạt động gắng sức. Chạy nhẹ là một cách tuyệt vời để duy trì sự năng động mà không quá sức!)",
+				"translate": "AI EN-DOI GEN-TỒ JÓC-GING.\n (ẤT MAI ÉI-DỜ, AI PỜ-RI-FƠ NÓT tờ tu ÉN-GÂYJ in SPOÓC đét RÍ-QUAI-Ờ tu MÚCH STRÉN-NI-U-sờ ÉC-TI-VI-TI. LAIT RAN-NING i-dờ ơ GỜ-RẾT GUÂY tu sờ-TÂY ÉC-TÍP wít-ao ÂU-VỜ-ĐUING ÍT!)"
 			},
 			{
 				"id": 10,
-				"question": "What are your hobbies?",
-				"answer": "My hobbies are cooking, gardening, and planting flowers.\n (I find a lot of pleasure in creating things, whether it's a delicious meal or a beautiful garden.)",
-				"translate": "Mai hó-biiz a cuốc-king, ga-đờ-ning, en plen-ting flau-ờz.\n (Ai fai-n đờ lót óp plé-zhờ in kri-ê-ting thinh, we-đờ its ơ đi-lí-sờs miu óc ơ biu-ti-ful ga-đờn.)"
+				"question": "What are your hobbies? - Sở thích của bạn là gì?",
+				"answer": "My hobbies are cooking, gardening, and planting flowers.\n (I find a lot of pleasure in creating things, whether it's a delicious meal or a beautiful garden.)\n\n[Dịch:]\nSở thích của tôi là nấu ăn, làm vườn và trồng hoa.\n (Tôi tìm thấy rất nhiều niềm vui trong việc tạo ra mọi thứ, cho dù đó là một bữa ăn ngon hay một khu vườn xinh đẹp.)",
+				"translate": "MAI HÓ-BI sờ a CÚC-KING, GA-ĐỜ-NING, EN nờ PLEN-TING FLAU-Ờ sờ.\n (AI FAI-N đờ LÓT ÓP PLÉ-ZHỜ in nờ KRÌ-ÊI-TING THINH, WE-ĐỜ ít sờ ờ ĐI-LÍ-SỜ sờ MIU ÓC cờ ờ BIU-TI-FUL GA-ĐỜN.)"
 			},
 			{
 				"id": 11,
-				"question": "How many hours a day do you work?",
-				"answer": "I work 8 hours a day.\n (The rest of my time is dedicated to taking care of my family.)",
-				"translate": "Ai wooc k êit au-ờz ơ đây.\n (Dờ rést óp mai taim iz đe-đi-câi-tịt tu têi-king ke óp mai fa-mờ-ly.)"
+				"question": "How many hours a day do you work? - Một ngày bạn làm việc bao nhiêu tiếng?",
+				"answer": "I work 8 hours a day.\n (The rest of my time is dedicated to taking care of my family.)\n\n[Dịch:]\nTôi làm việc 8 tiếng một ngày.\n (Phần thời gian còn lại của tôi dành để chăm sóc gia đình.)",
+				"translate": "AI GUỐC-cờ ÊIT AO-Ờ ơ ĐÂY.\n (Dờ RÉST ỢP MAI THAM i-dờ ĐE-ĐÌ-CÂY-TỊT tu THẾCH-KINH KE ỢP MAI FA-MỜ-LY.)"
 			},
 			{
 				"id": 12,
-				"question": "Do you live in a house or a flat?",
-				"answer": "I live in a house with my family.",
-				"translate": "Ai líp in ơ hau-s wít mai fa-mờ-ly."
+				"question": "Do you live in a house or a flat? - Bạn sống trong nhà riêng hay căn hộ?",
+				"answer": "I live in a house with my family.\n\n[Dịch:]\nTôi sống trong nhà riêng cùng gia đình.",
+				"translate": "AI LÍP pờ in ờ HAU sờ guýt MAI FA-MỜ-LY."
 			},
 			{
 				"id": 13,
-				"question": "How many languages can you speak",
-				"answer": "I can speak two languages: English and Vietnamese.",
-				"translate": "Ai ken xpík tu leng-gwì-jiz: Íng-lísh en Vi-ẹt-nam-míz."
+				"question": "How many languages can you speak - Bạn có thể nói được bao nhiêu thứ tiếng?",
+				"answer": "I can speak two languages: English and Vietnamese.\n\n[Dịch:]\nTôi có thể nói hai thứ tiếng: Tiếng Anh và Tiếng Việt.",
+				"translate": "AI KEN SPÍC cờ TRU LENG-GUÝCH sờ: ÍNH-LÍCH EN VI-ẸT-NAM-MÍZ."
 			},
 			{
 				"id": 14,
-				"question": "Why are you learning English?",
-				"answer": "I am learning English for my work and to better integrate into the globalized world.\n (It's a necessary skill for my professional life and helps me connect with the international community.)",
-				"translate": "Ai em lơ-ning Íng-lísh for mai woóc en tu bét-tờ ín-tờ-grêit in-tu dờ glô-bờ-lai-z đờ woocl.\n (Its ơ né-sờ-se-ri skil for mai prô-fé-sờ-nồ lai-p en hel-s mi cờ-néc wít dờ ín-tờ-ná-sờ-nồ cờ-miu-ni-ti.)"
+				"question": "Why are you learning English? - Tại sao bạn học tiếng Anh?",
+				"answer": "I am learning English for my work and to better integrate into the globalized world.\n (It's a necessary skill for my professional life and helps me connect with the international community.)\n\n[Dịch:]\nTôi đang học tiếng Anh cho công việc của mình và để hòa nhập tốt hơn vào thế giới toàn cầu hóa.\n (Đó là một kỹ năng cần thiết cho cuộc sống chuyên môn của tôi và giúp tôi kết nối với cộng đồng quốc tế.)",
+				"translate": "AI EM LƠ-NING INH-LÍCH pho MAI GUỐC EN tu BÉT-TỜ ÍN-TỜ-GRÊIT in-tu dờ GLÔ-BỜ-LAI-Z đờ GUÔN.\n (ÍT sờ ờ NÉ-SỜ-XE-RÌ SKIL lờ fo rờ MAI PRÔ-FÉ-SỜ-NỒ LAI p EN HELP sờ MI CỜ-NÉC wít sờ dờ ÍN-TỜ-NÁ-SỜ-NỒ CỜ-MIU-NI-TI.)"
 			},
 			{
 				"id": 15,
-				"question": "What do you enjoy doing in your free time?",
-				"answer": "I enjoy gardening, planting trees and flowers, and then watching them to relax.\n (Spending time with nature is a wonderful way to unwind and find peace.)",
-				"translate": "Ai én-doi ga-đờ-ning, plen-ting triiz en flau-ờz, en den wót-ching đờm tu ri-lác-s.\n (Xpen-ding taim wít nây-chờ iz ơ wăn-đờ-ful wey tu ăn-wain en fain piis.)"
+				"question": "What do you enjoy doing in your free time? - Bạn thích làm gì vào thời gian rảnh rỗi?",
+				"answer": "I enjoy gardening, planting trees and flowers, and then watching them to relax.\n (Spending time with nature is a wonderful way to unwind and find peace.)\n\n[Dịch:]\nTôi thích làm vườn, trồng cây và hoa, và sau đó ngắm chúng để thư giãn.\n (Dành thời gian với thiên nhiên là một cách tuyệt vời để thư thái và tìm thấy sự bình yên.)",
+				"translate": "AI EN-DOI GA-ĐỜ-NING, PLEN-TING TRII-sờ EN FLAU-Ờ, EN DEN WÓT-CHING dâm tu RÍ-LÁC sờ.\n (S-PEN-DING THAM wít sờ NÂY-CHỜ i-dờ ờ WĂN-ĐỜ-FUL WEY tu ĂN-WAIN EN nờ FAI-N PIIS.)"
 			}
 		]
 	},
-    {
-        "title": "Phần II: Situation",
-        "qas": [
-            { 
-                "id": 16, 
-                "question": "You are at the railway station. You want to ask for the departure time of the train from Hanoi to Haiphong. Make questions.", 
-                "answer": "- What time does the train from Hanoi to Haiphong depart?\n- When does the train depart?\n- What is the departure time?", 
-                "translate": "" 
-            },
-            { 
-                "id": 17, 
-                "question": "You are at the supermarket. You want to ask for the price of a T-shirt. Make questions.", 
-                "answer": "- How much does it cost?\n- How much is it?\n- What is the price of this T-shirt?", 
-                "translate": "" 
-            },
-            { 
-                "id": 18, 
-                "question": "You want to ask for the way to the police station. Make questions.", 
-                "answer": "- Excuse me, can you show me the way to the police station?\n- Could you tell me the way to get to the police station?\n- How do I get to the police station?", 
-                "translate": "" 
-            },
-            { 
-                "id": 19, 
-                "question": "You are at the airport. You want to ask for the arrival time of the flight from Ho Chi Minh City. Make questions.", 
-                "answer": "- What time does the flight from Ho Chi Minh City arrive?\n- When does the flight arrive?\n- What is the arrival time of the flight from Ho Chi Minh City?", 
-                "translate": "" 
-            },
-            { 
-                "id": 20, 
-                "question": "You are on the phone. You want to talk to the manager of a company. How do you say to the receptionist?", 
-                "answer": "- May I speak to the manager, please?\n- Could I talk to the manager, please?", 
-                "translate": "" 
-            },
-            { 
-                "id": 21, 
-                "question": "You are at the restaurant. You want to have some bread and steak for dinner. Make orders to the waiter/waitress.", 
-                "answer": "- Can I get some bread and steak, please?\n- Can I order some bread and steak, please?\n- I’d like bread and steak.\n- I’ll take/have some bread and steak.", 
-                "translate": "" 
-            },
-            { 
-                "id": 22, 
-                "question": "You are at the stadium. You want to ask for the time of a football match. Make questions.", 
-                "answer": "- What is the time of the football match?\n- When does the football match take place/start?\n- What time does the football match end/finish?", 
-                "translate": "" 
-            },
-            { 
-                "id": 23, 
-                "question": "You are at the school. You want to ask for time of the English lessons. Make questions.", 
-                "answer": "- What is the time of the English lesson?\n- When does the English lesson take place/start?\n- What time does the English lesson end/finish?", 
-                "translate": "" 
-            },
-            { 
-                "id": 24, 
-                "question": "You want to ask one of your friends to go to the cinema with you this weekend. How do say to him/her?", 
-                "answer": "- Would you like to go to the cinema with me this weekend?\n- Shall we go to the cinema this weekend?\n- Let’s go to the cinema this weekend!\n- How about/What about going to the cinema with me this weekend?", 
-                "translate": "" 
-            },
-            { 
-                "id": 25, 
-                "question": "You are at the bookshop. You want to ask for the price of an English-Vietnamese dictionary. Make questions to the assistant.", 
-                "answer": "- How much does it cost?\n- How much is it?\n- What is the price of this English-Vietnamese dictionary?", 
-                "translate": "" 
-            }
-        ]
-    },
-    {
-        "title": "Phần III: Topic",
-        "qas": [
-            { 
-                "id": 26, "question": "Chủ điểm 1: Talk about your day at school.", 
-                "answer": "You should say: \n + What time it starts. \n I start work at 8 o'clock and continue until 11:30. I spend one hour on having lunch at the cafeteria of my office. I do my work until 5.00 p.m.  \n + What you do during the day. \n I usually get up at 6.00 a.m and prepare breakfast for my family. I do my work until 5.00 p.m and then go to pick up my children at school. We had dinner at 7 o'clock. \n + What you often do after class /work . \n My children and I of ten go to the park to play some games for relaxation. \n\n Suggested answer:  \n I usually get up at 6 .00 a.m and then get a shower. \nI often prepare breakfast for my family. \nWe like eating noodles or sticky rice. \nLater, I am responsible for taking my children to school. \nIt takes me 30 minutes to go to work because of the traffic jam. \nWe start work at 8 o’clock and continue until 11:30. \nI spend one hour on having lunch at the cafeteria of my office. \nI do my work until 5.00 p.m and then go to pick up my children at school. \nMy children and I often go to the park to play some games for relaxation. \nWe had dinner at  7 o’clock. \nMy family love watching movie together for a while. \nThen, it’s bedtime. \nWe must get rest to prepare for the coming day.", 
-                "translate": "" 
-            },
-            {
-                "id": 27,
-                "question": "Chủ điểm 2: Talk about your last summer holiday.",
-                "answer": "You should say: \n + Where you went. \n Last year, I spent my holiday by Vung Tau seaside with my family. \n + What you did there. \n We sat under large beach umbrellas, ate crabs and clams. We also sunbathed on the beach or swam in the sea. \n + Whether you enjoyed it or not. \n I love the trip so much because the beach has the liveliest scenery we have ever seen. \n\n Suggested answer: \n Last year, I spent my holiday by Vung Tau seaside with my family. \nIn the early morning from HCM city, we got there by bus. \nOn the way to Vung Tau resort, we met a lot of our friends, who also went there to escape from the terrible heat of a crowded city. \nAlthough the beach was crammed with people, we still felt more relaxed by the fresh morning air coming in from the open sea. \nOn the beach children were running here and there, gathering choice pebbles, shells and seaweeds. \nOthers were busy digging sand to catch little crabs. \nGroups of holiday-makers were sitting under large beach umbrellas, eating crabs and clams while others in their bathing-costumes were sunbathing on the beach or swimming in the sea. \nHow delighted we were when we dived down into the fresh cool water and took a long leisurely swim. \nThe splash of waves against the rocks, the merry shouting and laughter of holiday-makers created the liveliest scenery we have ever seen.",
-                "translate": ""
-            },
-            {
-                "id": 28,
-                "question": "Chủ điểm 3: Talk about your family.",
-                "answer": "You should say: \n + How many members there are in your family. \n + Who they are. \n + Where your family is living now. \n\n Suggested answer: \n I am a policeman at Hanoi Police Station. \nI am married and have two children. \nMy wife is 33 years old. \nShe works as a teacher of English at the People’s Security Academy. \nShe is tall and pretty. \nShe is always gentle and sociable with everybody. \nShe cooks very well and often spends a lot of time on cooking. \nI have a son and a daughter. \nMy son is 6 years old. \nHe studies at Thanh Cong Primary school. \nHe is very active and clever. \nHe loves playing football and volleyball. \nMy daughter is only three years old. \nShe is very dynamic and cute. \nShe loves singing and dancing. \nI love my family very much. \nIt is the place that I feel warm and safe.",
-                "translate": ""
-            },
-            {
-                "id": 29,
-                "question": "Chủ điểm 4: Talk about a place you would like to go in your free time.",
-                "answer": "You should say: \n + Where it is. \n The most interesting place that I would like to visit is Ho Chi Minh city. It is a young dynamic city of Vietnam. \n + What you often do there. \n We would go to Ben Thanh market which has a full collection of all goods and products from every part of Vietnam. \n + Why you like to go there in your free time. \n I’d like to go there because I can feel a bustling air, exciting modern life. \n\n Suggested answer: \n The most interesting place that I would like to visit is Ho Chi Minh city. \nIt is a young dynamic city of Vietnam. \nComing to HCM city, tourists will feel a bustling air, exciting modern life. \nHowever, HCM city has preserved and remained its previous cultural tradition inside it. \nThe streets are often crowded and people are always rushing as if they would be late for some appointment with someone. \nHigh buildings, luxurious hotels, fashion shops, souvenirs stores, etc are places taking much time of travelers. \nBen Thanh market is considered a highlight that tourists had not better miss. \nThe market is one of some HCM attractions full collection of all goods and products from every part of Vietnam. \nDespite of the noisy bustling urban of the modern life, HCM city keeps for its own romantic sights of streets with shades of trees such as Tu Xuong, Truong Dinh, Le Duan…, all of which gently offer natural air for visitors to take a stroll sightseeing.",
-                "translate": ""
-            },
-            {
-                "id": 30,
-                "question": "Chủ điểm 5: Talk about your favourite season in a year.",
-                "answer": "You should say: \n + Which season it is. \n I love all the seasons but I think my favourite is Spring. \n + What the weather is like in the season. \n In Vietnam, Spring lasts from January to April. In early Spring, our weather can be anything from freezing cold to warm and sunny, but later in the season it gets consistently warmer. \n + Why you like it. \n I love Spring because everything is growing, fresh and new. One of the best things about Spring is that the plants and trees come to life again, especially in the countryside. \n\n Suggested answer: \n I love all the seasons but I think my favourite is Spring. \nIn Vietnam, Spring lasts from January to April. \nIn early Spring, our weather can be anything from freezing cold to warm and sunny, but later in the season it gets consistently warmer. \nI love Spring because everything is growing, fresh and new. \nOne of the best things about Spring is that the plants and trees come to life again, especially in the countryside. \nOn the trees, we can see new leaves growing. \nFruit trees, such as cherry and apple trees, develop beautiful pink and white blossoms, and colourful flowers such as daffodils and crocuses bloom in parks and gardens. \nThe sounds of spring are wonderful too, when birds start singing more as they look for a mate and then start building their nests. \nMoreover, it is time for people to have a great time on traditional Tet holiday. \nFinally, it is not just the countryside that comes to life again in Spring. \nIn towns and cities, cafes, pubs and restaurants start putting their tables outside again, and people sit in the sun drinking and eating. \nThe parks are full of people walking, cycling and playing sport. \nIt’s a fantastic season!",
-                "translate": ""
-            },
+	{
+		"title": "Phần II: Situation",
+		"qas": [
+			{
+				"id": 16,
+				"question": "You are at the railway station. You want to ask for the departure time of the train from Hanoi to Haiphong. Make questions. - Bạn đang ở nhà ga xe lửa. Bạn muốn hỏi giờ khởi hành của chuyến tàu từ Hà Nội đi Hải Phòng. Hãy đặt câu hỏi.",
+				"answer": "- What time does the train from Hanoi to Haiphong depart?\n- When does the train depart?\n- What is the departure time?\n\n[Dịch:]\n- Mấy giờ chuyến tàu từ Hà Nội đi Hải Phòng khởi hành?\n- Khi nào tàu khởi hành?\n- Giờ khởi hành là mấy giờ?",
+				"translate": "- WÓT THAM đờ TREIN fròm HÀ NỘI tu HẢI PHÒNG ĐI-PAẠT?\n- WEN đờ TREIN ĐI-PAẠT?\n- WÓT i-dờ dờ ĐI-PAẠT-chờ THAM?"
+			},
+			{
+				"id": 17,
+				"question": "You are at the supermarket. You want to ask for the price of a T-shirt. Make questions. - Bạn đang ở siêu thị. Bạn muốn hỏi giá một chiếc áo phông. Hãy đặt câu hỏi.",
+				"answer": "- How much does it cost?\n- How much is it?\n- What is the price of this T-shirt?\n\n[Dịch:]\n- Nó giá bao nhiêu?\n- Nó là bao nhiêu tiền?\n- Giá của chiếc áo phông này là bao nhiêu?",
+				"translate": "- HAU MÚCH đờ ít CÓT?\n- HAU MÚCH i-dờ ÍT?\n- WÓT i-dờ dờ PRAI-sờ óp đít TI-SỜT?"
+			},
+			{
+				"id": 18,
+				"question": "You want to ask for the way to the police station. Make questions. - Bạn muốn hỏi đường đến đồn cảnh sát. Hãy đặt câu hỏi.",
+				"answer": "- Excuse me, can you show me the way to the police station?\n- Could you tell me the way to get to the police station?\n- How do I get to the police station?\n\n[Dịch:]\n- Xin lỗi, bạn có thể chỉ cho tôi đường đến đồn cảnh sát không?\n- Bạn có thể nói cho tôi biết đường đến đồn cảnh sát được không?\n- Làm cách nào tôi đến được đồn cảnh sát?",
+				"translate": "- ÉC-SỜ-KIU MI, KEN DU SÔ MI dờ WEY tu dờ PỜ-LÍS S-TÊI-SỜN?\n- CÚT DU TEO MI dờ WEY tu GHÉT tu dờ PỜ-LÍS S-TÊI-SỜN?\n- HAU ĐU AI GHÉT tu dờ PỜ-LÍS S-TÊI-SỜN?"
+			},
+			{
+				"id": 19,
+				"question": "You are at the airport. You want to ask for the arrival time of the flight from Ho Chi Minh City. Make questions. - Bạn đang ở sân bay. Bạn muốn hỏi giờ hạ cánh của chuyến bay từ Thành phố Hồ Chí Minh. Hãy đặt câu hỏi.",
+				"answer": "- What time does the flight from Ho Chi Minh City arrive?\n- When does the flight arrive?\n- What is the arrival time of the flight from Ho Chi Minh City?\n\n[Dịch:]\n- Mấy giờ chuyến bay từ Thành phố Hồ Chí Minh đến?\n- Khi nào chuyến bay đến?\n- Giờ hạ cánh của chuyến bay từ Thành phố Hồ Chí Minh là mấy giờ?",
+				"translate": "- WÓT THAM đờ dờ FLAI-T fròm HỒ CHÍ MINH XI-TI Ờ-RAI-VỜ?\n- WEN đờ dờ FLAI-T Ờ-RAI-VỜ?\n- WÓT i-dờ dờ Ờ-RAI-VỒ THAM óp dờ FLAI-T fròm HỒ CHÍ MINH XI-TI?"
+			},
+			{
+				"id": 20,
+				"question": "You are on the phone. You want to talk to the manager of a company. How do you say to the receptionist? - Bạn đang gọi điện thoại. Bạn muốn nói chuyện với quản lý của một công ty. Bạn sẽ nói với lễ tân như thế nào?",
+				"answer": "- May I speak to the manager, please?\n- Could I talk to the manager, please?\n\n[Dịch:]\n- Làm ơn cho tôi nói chuyện với quản lý được không?\n- Tôi có thể nói chuyện với quản lý được không?",
+				"translate": "- MÂY AI SPÍC tu dờ MA-NÍT-ZỜ, PLI-sờ?\n- CÚT AI TÓC tu dờ MA-NÍT-ZỜ, PLI-sờ?"
+			},
+			{
+				"id": 21,
+				"question": "You are at the restaurant. You want to have some bread and steak for dinner. Make orders to the waiter/waitress. - Bạn đang ở nhà hàng. Bạn muốn gọi bánh mì và bít tết cho bữa tối. Hãy gọi món với nhân viên phục vụ.",
+				"answer": "- Can I get some bread and steak, please?\n- Can I order some bread and steak, please?\n- I’d like bread and steak.\n- I’ll take/have some bread and steak.\n\n[Dịch:]\n- Tôi có thể gọi bánh mì và bít tết được không?\n- Tôi có thể gọi món bánh mì và bít tết được không?\n- Tôi muốn bánh mì và bít tết.\n- Tôi sẽ dùng bánh mì và bít tết.",
+				"translate": "- KEN AI GHÉT xăm BRÉT EN S-TÊIC, PLI-sờ?\n- KEN AI ÓC-ĐỜ xăm BRÉT EN S-TÊIC, PLI-sờ?\n- AI-Đờ LAIK BRÉT EN S-TÊIC.\n- AI-Lờ TÊIC/HÉP xăm BRÉT EN S-TÊIC."
+			},
+			{
+				"id": 22,
+				"question": "You are at the stadium. You want to ask for the time of a football match. Make questions. - Bạn đang ở sân vận động. Bạn muốn hỏi giờ của một trận đấu bóng đá. Hãy đặt câu hỏi.",
+				"answer": "- What is the time of the football match?\n- When does the football match take place/start?\n- What time does the football match end/finish?\n\n[Dịch:]\n- Mấy giờ là trận đấu bóng đá?\n- Khi nào trận đấu bóng đá diễn ra/bắt đầu?\n- Mấy giờ trận đấu bóng đá kết thúc?",
+				"translate": "- WÓT i-dờ dờ THAM óp dờ FUT-BỒL MÉT?\n- WEN đờ dờ FUT-BỒL MÉT TÊIC PLÊIS/S-TAẠT?\n- WÓT THAM đờ dờ FUT-BỒL MÉT EN-Đờ/FI-NÍSH?"
+			},
+			{
+				"id": 23,
+				"question": "You are at the school. You want to ask for time of the English lessons. Make questions. - Bạn đang ở trường học. Bạn muốn hỏi giờ của các buổi học tiếng Anh. Hãy đặt câu hỏi.",
+				"answer": "- What is the time of the English lesson?\n- When does the English lesson take place/start?\n- What time does the English lesson end/finish?\n\n[Dịch:]\n- Mấy giờ là buổi học tiếng Anh?\n- Khi nào buổi học tiếng Anh diễn ra/bắt đầu?\n- Mấy giờ buổi học tiếng Anh kết thúc?",
+				"translate": "- WÓT i-dờ dờ THAM óp dờ ÍNG-LÍSH LÉ-SỜN?\n- WEN đờ dờ ÍNG-LÍSH LÉ-SỜN TÊIC PLÊIS/S-TAẠT?\n- WÓT THAM đờ dờ ÍNG-LÍSH LÉ-SỜN EN-Đờ/FI-NÍSH?"
+			},
+			{
+				"id": 24,
+				"question": "You want to ask one of your friends to go to the cinema with you this weekend. How do say to him/her? - Bạn muốn rủ một người bạn đi xem phim với mình cuối tuần này. Bạn sẽ nói với họ như thế nào?",
+				"answer": "- Would you like to go to the cinema with me this weekend?\n- Shall we go to the cinema this weekend?\n- Let’s go to the cinema this weekend!\n- How about/What about going to the cinema with me this weekend?\n\n[Dịch:]\n- Bạn có muốn đi xem phim với tôi cuối tuần này không?\n- Chúng ta đi xem phim cuối tuần này nhé?\n- Đi xem phim cuối tuần này thôi!\n- Đi xem phim với tôi cuối tuần này thì sao?",
+				"translate": "- WÚT DU LAIK tu GÔU tu dờ XI-NỜ-MỜ wít MI đít WII-KEN-Đờ?\n- XEL WII GÔU tu dờ XI-NỜ-MỜ đít WII-KEN-Đờ?\n- LÉTS GÔU tu dờ XI-NỜ-MỜ đít WII-KEN-Đờ!\n- HAU Ờ-BAUT/WÓT Ờ-BAUT GÔU-ING tu dờ XI-NỜ-MỜ wít MI đít WII-KEN-Đờ?"
+			},
+			{
+				"id": 25,
+				"question": "You are at the bookshop. You want to ask for the price of an English-Vietnamese dictionary. Make questions to the assistant. - Bạn đang ở hiệu sách. Bạn muốn hỏi giá một cuốn từ điển Anh-Việt. Hãy đặt câu hỏi với người bán hàng.",
+				"answer": "- How much does it cost?\n- How much is it?\n- What is the price of this English-Vietnamese dictionary?\n\n[Dịch:]\n- Nó giá bao nhiêu?\n- Nó là bao nhiêu tiền?\n- Giá của cuốn từ điển Anh-Việt này là bao nhiêu?",
+				"translate": "- HAU MÚCH đờ ít CÓT?\n- HAU MÚCH i-dờ ÍT?\n- WÓT i-dờ dờ PRAI-sờ óp đít ÍNG-LÍSH-VI-ẸT-NAM-MÍZ ĐÍC-SỜ-NỜ-RI?"
+			}
+		]
+	},
+	{
+		"title": "Phần III: Topic",
+		"qas": [
+			{
+				"id": 26,
+				"question": "Chủ điểm 1: Talk about your day at school. - Nói về một ngày làm việc của bạn ở trường.",
+				"answer": "You should say: \n + What time it starts. \n + What you do during the day. \n + What you often do after class /work. \n\n Suggested answer: \n I usually wake up at 6:00 a.m. and prepare for the day. \n I teach at a primary school in a small village. \n School starts at 7:30 a.m., and I spend the whole morning teaching my students various subjects. \n We finish the school day at 4:30 p.m. \n After work, I immediately go home to spend time with my children. \n We often spend the early evening planting and watering flowers in our small garden for relaxation.\n\n[Dịch:]\nTôi thường thức dậy lúc 6 giờ sáng và chuẩn bị cho một ngày. \n Tôi dạy ở một trường tiểu học tại một ngôi làng nhỏ. \n Trường học bắt đầu lúc 7 giờ 30 sáng, và tôi dành cả buổi sáng để dạy các môn học khác nhau cho học sinh của mình. \n Chúng tôi kết thúc ngày học lúc 4 giờ 30 chiều. \n Sau giờ làm việc, tôi về nhà ngay để dành thời gian cho các con. \n Chúng tôi thường dành buổi tối sớm để trồng và tưới hoa trong khu vườn nhỏ của mình để thư giãn.",
+				"translate": "AI IU-ZỜ-LY UÊIC UP ét SÍC Ờ-EM EN PRÌ-PE-RỜ fo dờ ĐÂY. \n AI TÍC-chờ ét ờ PRAI-MỜ-RÌ SKUL IN ờ SMOL VIL-LỊT-jờ. \n SKUL X-TAAC-T ét SE-VẦN THƠ-TÌ Ờ-EM, EN AI X-PEN dờ HÔL MÓC-NING TÍC-chờ-ING MAI X-TU-ĐẦN VE-RI-ỚT SÚP-JÉCT. \n WII FI-NÍSH dờ SKUL ĐÂY ét FO THƠ-TÌ PI-EM. \n ÁF-TỜ WOOC, AI ÍM-MI-ĐI-ẬT-LY GÔU HÔM tu X-PEN TAIM wít MAI CHIL-ĐỜN. \n WII ÓF-TỪN X-PEN dờ Ơ-LÌ ÍP-NING PLEN-TING EN WÓ-TỜ-RING FLAU-Ờ IN ÁOỜ SMOL GÁC-ĐỜN fo RÌ-LÁC-SỜN."
+			},
+			{
+				"id": 27,
+				"question": "Chủ điểm 2: Talk about your last summer holiday. - Nói về kỳ nghỉ hè gần nhất của bạn.",
+				"answer": "You should say: \n + Where you went. \n + What you did there. \n + Whether you enjoyed it or not. \n\n Suggested answer: \n Last summer, I decided to have a simple, peaceful break right in my home village. \n My family and I spent most of the time tending to our garden and planting new fruit trees. \n We often woke up early to enjoy the quiet fresh air and cook meals together. \n I also spent a lot of time reading books and resting after a long school year. \n I absolutely loved this holiday because it brought me close to nature and my family, which is my greatest joy.\n\n[Dịch:]\nHè năm ngoái, tôi quyết định có một kỳ nghỉ đơn giản, yên bình ngay tại làng của mình. \n Gia đình tôi dành phần lớn thời gian chăm sóc vườn tược và trồng thêm cây ăn quả mới. \n Chúng tôi thường dậy sớm để tận hưởng không khí trong lành yên tĩnh và cùng nhau nấu ăn. \n Tôi cũng dành nhiều thời gian để đọc sách và nghỉ ngơi sau một năm học dài. \n Tôi hoàn toàn yêu thích kỳ nghỉ này vì nó đưa tôi đến gần hơn với thiên nhiên và gia đình, đó là niềm vui lớn nhất của tôi.",
+				"translate": "LÁT XĂM-MỜ, AI ĐI-SAI-ĐỊT tu HÉP ờ SIM-PỒ BRÊIC rait IN MAI HÔM VIL-LỊT-jờ. \n MAI FA-MỜ-LY EN AI X-PEN MÔXT OP dờ TAIM TEN-DING tu ÁOỜ GÁC-ĐỜN EN PLEN-TING niu FRU-T TRII. \n WII ÓF-TỪN UÔC UP Ờ-LÌ tu EN-JOI dờ KWAI-ẸT FRÉSH E EN CÚC MIIL TU-GHÉ-ĐỜ. \n AI ÓL-xờ X-PEN ờ LÓT OP TAIM RÍT-ĐING BÚC EN RÉST-TING ÁF-TỜ ờ LÓNG SKUL DIA. \n AI ÉP-XỜ-LÚT-LY LỚP đít HÓ-LÌ-ĐÂY BI-CỐZ ít BRÓT MI CLÔU-ZỜ tu NÂY-CHỜ EN MAI FA-MỜ-LY, wích i-dờ MAI GRÊI-TỊT JOI."
+			},
+			{
+				"id": 28,
+				"question": "Chủ điểm 3: Talk about your family. - Nói về gia đình bạn.",
+				"answer": "You should say: \n + How many members there are in your family. \n + Who they are. \n + Where your family is living now. \n\n Suggested answer: \n My family is quite small; there are four of us: my husband, two children, and myself. \n We live in a quiet, traditional house right in the countryside. \n My husband works locally as a farmer, and I am an English teacher at the village primary school. \n Our two children are currently attending that same school. \n We have a simple life, but it’s full of love, especially when we spend time together in our little garden every evening. \n Family is everything to me.\n\n[Dịch:]\nGia đình tôi khá nhỏ; có bốn người chúng tôi: chồng tôi, hai con và tôi. \n Chúng tôi sống trong một ngôi nhà truyền thống, yên tĩnh ngay tại vùng nông thôn. \n Chồng tôi làm nông dân tại địa phương, còn tôi là giáo viên tiếng Anh tại trường tiểu học của làng. \n Hai con tôi hiện đang học tại chính ngôi trường đó. \n Chúng tôi có một cuộc sống đơn giản, nhưng tràn đầy tình yêu thương, đặc biệt là khi chúng tôi dành thời gian bên nhau trong khu vườn nhỏ mỗi buổi tối. \n Gia đình là tất cả đối với tôi.",
+				"translate": "MAI FA-MỜ-LY i-dờ KWAI-ẸT SMOL; DẸ A FO OP VỜ: MAI HÚT-ZỜN, TU CHIL-ĐỜN, EN MAI-XEN-PHỜ. \n WII LÍP IN ờ KWAI-ẸT, TRỜ-ĐÍ-SẦN HAU rait IN dờ CĂN-TRÌ-SAI-ĐỜ. \n MAI HÚT-ZỜN WOOC LÔ-CỜ-LÌ át ờ FA-MỜ, EN AI EM EN ÍNG-LÍSH TÍC-chờ ét dờ VIL-LỊT-jờ PRAI-MỜ-RÌ SKUL. \n ÁOỜ TU CHIL-ĐỜN a KƠ-RẦN-T LÌ Ờ-TEN-ĐING đét SÊM SKUL. \n WII HÉP ờ SIM-PỒ LAI-p, bớt ít-XỜ FUL OP LỚP, ÉP-XỜ-SỜ-LY wen WII X-PEN TAIM TU-GHÉ-ĐỜ IN ÁOỜ LIT-TỒ GÁC-ĐỜN ÉP-PỜ-RÌ ÍP-NING. \n FA-MỜ-LY i-dờ ÉP-VỜ-RÌ-THINH tu MI."
+			},
+			{
+				"id": 29,
+				"question": "Chủ điểm 4: Talk about a place you would like to go in your free time. - Nói về một nơi bạn muốn đến trong thời gian rảnh.",
+				"answer": "You should say: \n + Where it is. \n + What you often do there. \n + Why you like to go there in your free time. \n\n Suggested answer: \n In my free time, I always prefer to be in my own **home garden**. \n It's located right behind my house in the quiet countryside. \n When I’m there, I spend hours **planting** new seeds, **watering** my established flowers, and trimming the bushes. \n Sometimes, I just sit on the small wooden bench and quietly **observe** the new buds. \n I love this place because it's where I feel truly peaceful and disconnected from the noisy outside world. \n It helps me relax my mind and prepare for the next day of teaching.\n\n[Dịch:]\nTrong thời gian rảnh, tôi luôn thích ở trong **khu vườn nhà mình**. \n Nó nằm ngay phía sau ngôi nhà của tôi ở vùng nông thôn yên tĩnh. \n Khi ở đó, tôi dành hàng giờ để **trồng** hạt giống mới, **tưới** những bông hoa đã trồng và cắt tỉa bụi cây. \n Đôi khi, tôi chỉ ngồi trên chiếc ghế gỗ nhỏ và lặng lẽ **quan sát** những chồi non mới nhú. \n Tôi yêu nơi này vì đó là nơi tôi cảm thấy thực sự bình yên và tách biệt khỏi thế giới ồn ào bên ngoài. \n Nó giúp tôi thư giãn đầu óc và chuẩn bị cho ngày dạy học tiếp theo.",
+				"translate": "IN MAI FRI TAIM, AI ÓL-UÂY PRÌ-FỜ tu BII IN MAI ÔN HÔM GÁC-ĐỜN. \n ÍT-XỜ LÔ-CÂY-TỊT rait BI-HAI-NĐờ MAI HAU IN dờ KWAI-ẸT CĂN-TRÌ-SAI-ĐỜ. \n WEN AI EM DẸ, AI X-PEN AU-Ờ PLEN-TING niu XÍT, WÓ-TỜ-RING MAI ÉS-TA-BLÍSH-Tờ FLAU-Ờ, EN TRÍM-MÌNG dờ BÚSH. \n XĂM-TAIM, AI JỨT XÍT on dờ SMOL WÚT-ĐẦN BEN-chờ EN KWAI-ẸT-LÌ ỜP-XƠ-VỜ dờ niu BẮT. \n AI LỚP đít PLÊIS BI-CỐZ ít-XỜ WE AI FIIL TRU-LÌ PIIS-FUL EN ĐÍT-XỜ-NÉC-TỊT FRÒM dờ NÔI-DÌ AU-TỜ-SKỚC. \n ÍT HELP MI RÌ-LÁC MAI MAI-NĐờ EN PRÌ-PE-RỜ fo dờ NÉCT ĐÂY OP TÍC-chờ-ING."
+			},
+			{
+				"id": 30,
+				"question": "Chủ điểm 5: Talk about your favourite season in a year. - Nói về mùa yêu thích của bạn trong năm.",
+				"answer": "You should say: \n + Which season it is. \n + What the weather is like in the season. \n + Why you like it. \n\n Suggested answer: \n Without a doubt, my favourite season is **Spring** in Northern Vietnam. \n After the long, cold winter, the weather becomes perfectly **cool and gentle**. \n It often has a light drizzle that makes the air feel incredibly fresh. \n I love Spring because it is the season of **new life and hope**. \n All the trees in the village start to sprout new green leaves and my flowers begin to blossom beautifully. \n It is also the time when families gather to celebrate **Tet Holiday**, bringing immense joy and warmth.\n\n[Dịch:]\nKhông nghi ngờ gì nữa, mùa yêu thích của tôi là **Mùa Xuân** ở miền Bắc Việt Nam. \n Sau mùa đông dài và lạnh giá, thời tiết trở nên **mát mẻ và dịu dàng** hoàn hảo. \n Trời thường có một cơn mưa phùn nhẹ khiến không khí trở nên vô cùng trong lành. \n Tôi yêu mùa Xuân vì đó là mùa của **sự sống và hy vọng mới**. \n Tất cả cây cối trong làng bắt đầu nảy những chiếc lá xanh mới và hoa của tôi bắt đầu nở rộ rực rỡ. \n Đây cũng là thời điểm các gia đình sum họp để chào đón **Tết Nguyên Đán**, mang lại niềm vui và sự ấm áp vô bờ.",
+				"translate": "WÍT-ĐAU-Tờ ờ ĐAU-T, MAI FÂY-VỜ-RỊT XÍ-DỜN i-dờ X-PRING IN NÓC-ĐỜN VI-ẸT-NAM. \n ÁF-TỜ dờ LÓNG, CÔUL-Đờ WÍN-TỜ, dờ WE-ĐỜ BI-CĂM PỜ-FÉC-T LÌ CUL EN JEN-TỒ. \n ÍT ÓF-TỪN HÉP ờ LAI-Tờ ĐRI-DỒ đét MÊIC dờ E FIIL ÍN-CRÉ-ĐI-BLÌ FRÉSH. \n AI LỚP X-PRING BI-CỐZ ít i-dờ dờ XÍ-DỜN OP NIU LAI-p EN HÔU-p. \n ÓL dờ TRII IN dờ VIL-LỊT-jờ X-TAẠT tu X-PRAUT NIU GRÌN LII-VỜ EN MAI FLAU-Ờ BI-GIN tu BLÓS-SỜM BIU-TI-FUL-LÌ. \n ÍT i-dờ ÓL-xờ dờ TAIM wen FA-MỜ-LY GÉ-ĐỜ tu XE-LỜ-BRÊIT TÉT HÓ-LÌ-ĐÂY, BRING-GING ÍM-MENS JOI EN WOCM-th."
+			},
 			{
 				"id": 31,
-				"question": "Chủ điểm 6: Talk about your favourite teacher.",
-				"answer": "You should say: \n + Who he/she is. \n My favourite teacher was Mrs. Hoa who had taught me English for 2 years. \n + How he/she looks like. \n She had sparkle eyes and dark hair. She‘s just a bit taller than I was. She always smiled to us as we saw each other in the hallway at school. She seemed very strict when I first met her. However, we had a lot of fun from the jokes in English during her classes. \n + Why you like him/her. \n Because she’s a very helpful person. \n\n Suggested answer: \n My favourite teacher was Mrs. Hoa who had taught me English for 2 years. \nShe studied in America and then came back to Vietnam to be an English teacher. \nShe had sparkle eyes and dark hair. \nShe‘s just a bit taller than I was. \nShe always smiled to us as we saw each other in the hallway at school. \nShe seemed very strict when I first met her. \nHowever, we had a lot of fun from the jokes in English during her classes. \nShe had skills at teaching, sense of humour, friendly, patient and easy going. \nShe’s very patient and enthusiastic to teach us whenever we had questions in her classes. \nMoreover, she would stay at school after school finished for hours to solve the problems that we had in her class. \nShe encouraged us to do voluntary work after school or at weekends. \nShe led a group of students to do lots different kinds of services for charity such as cleaning houses for seniors who lived by themselves; leading blind people to walk in the street regularly and planting bushes for the protesting environment organization. \nShe’s a very helpful person.",
-				"translate": ""
+				"question": "Chủ điểm 6: Talk about your favourite teacher. - Nói về giáo viên yêu thích của bạn.",
+				"answer": "You should say: \n + Who he/she is. \n + How he/she looks like. \n + Why you like him/her. \n\n Suggested answer: \n My favourite teacher was my high school Literature teacher, Mrs. Hanh. \n She was a gentle lady with kind eyes and a warm, inviting smile. \n She wasn't tall, but her presence in the classroom was always strong and calm. \n I admired her patience, especially when dealing with difficult student questions. \n She had a wonderful way of simplifying complex literature into stories we could easily understand. \n I liked her most because she taught me to be patient and to find beauty in simple things, which helps me a lot in my job as a primary school teacher today.\n\n[Dịch:]\nGiáo viên yêu thích của tôi là giáo viên Văn học cấp ba của tôi, cô Hạnh. \n Cô là một phụ nữ dịu dàng với đôi mắt nhân hậu và nụ cười ấm áp, mời gọi. \n Cô không cao, nhưng sự hiện diện của cô trong lớp học luôn mạnh mẽ và điềm tĩnh. \n Tôi ngưỡng mộ sự kiên nhẫn của cô, đặc biệt khi giải quyết các câu hỏi khó của học sinh. \n Cô có một cách tuyệt vời để đơn giản hóa văn học phức tạp thành những câu chuyện mà chúng tôi có thể dễ dàng hiểu được. \n Tôi thích cô nhất vì cô đã dạy tôi phải kiên nhẫn và tìm thấy vẻ đẹp trong những điều giản dị, điều này giúp tôi rất nhiều trong công việc giáo viên tiểu học ngày nay.",
+				"translate": "MAI FÂY-VỜ-RỊT TÍC-chờ wớt MAI HAI SKUL LÍT-TỜ-RỜ-CHỜ TÍC-chờ, MÍT-SỜ HÀNH. \n SI wớt ờ JEN-TỒ LÊI-ĐI wít KAI-NĐờ AI EN ờ WOCM, IN-VAI-TING X-MAIL. \n SI wớt NÓT TOL, bớt hờ PRÉ-SỜN IN dờ CLA-xờ-RUM wớt ÓL-UÂY S-TRÓNG EN CAM. \n AI ỜT-MAI-RỜ hờ PÊI-SỜN, ÉP-XỜ-SỜ-LY wen ĐÍ-LING wít ĐÍ-FI-CỒN-Tờ X-TU-ĐẦN KWÉT-SỜN. \n SI HÉT ờ WĂN-ĐỜ-FUL WEY OP SIM-PLI-FAI-ING CỜM-PLÉC-xờ LÍT-TỜ-RỜ-CHỜ IN X-TÓ-RI WII CÚT Í-DÌ ĂN-ĐỜ-X-TEN. \n AI LAIK-tờ hờ MÔXT BI-CỐZ SI TÓC-tờ MI tu BII PÊI-SỜN EN tu FAI-NĐờ BIU-TI IN SIM-PỒ THINH, wích HELP MI ờ LÓT IN MAI JÓP át ờ PRAI-MỜ-RÌ SKUL TÍC-chờ tu-ĐÂY."
 			},
 			{
 				"id": 32,
-				"question": "Chủ điểm 7: Talk about your best friend.",
-				"answer": "You should say: \n + Who he/she is. \n To me, one of my best friends is Nam. \n + How he/she looks like. \n Nam is only over eighteen but he is well developed; so he is thought to be twenty or more. He has black hair, a broad forehead, a straight nose and bright eyes. He is very good-looking. He has a kind heart and is easy to get on with everybody. \n + Why he/she is your best friend. \n I like Nam very much because of his honesty and straightforwardness. \n\n Suggested answer: \n To me, one of my best friends is Nam. \nNam is only over eighteen but he is well developed; so he is thought to be twenty or more. \nHe has black hair, a broad forehead, a straight nose and bright eyes. \nHe is very good-looking. \nHe has a kind heart and is easy to get on with everybody. \nWe have been friends for a very long time. \nThe deeper our mutual understanding becomes the more we feel closely attached to each other. \nNam and I are keen on learning. \nWe are the best pupils in our class. \nHe is good at every subject, but he never shows pride in his abilities and always tries to learn harder. \nI like Nam very much because of his honesty and straightforwardness. \nHe is always ready to help his weak friends in their study; as a result, lots of friends, thanks to his whole-hearted help, have become good ones.",
-				"translate": ""
+				"question": "Chủ điểm 7: Talk about your best friend. - Nói về người bạn thân nhất của bạn.",
+				"answer": "You should say: \n + Who he/she is. \n + How he/she looks like. \n + Why he/she is your best friend. \n\n Suggested answer: \n My best friend is a lady named Lan, and she is also a primary school teacher in my village. \n Lan has a friendly round face, short dark hair, and always wears glasses. \n She is always smiling and has a very gentle manner. \n We have been best friends since childhood, so we know each other very well. \n We share the same love for nature and often spend our weekends together planting vegetables and flowers. \n She is my best friend because she is incredibly honest, patient, and always encourages me to be a better teacher and gardener.\n\n[Dịch:]\nBạn thân nhất của tôi là một phụ nữ tên Lan, cô ấy cũng là giáo viên tiểu học trong làng tôi. \n Lan có khuôn mặt tròn thân thiện, mái tóc đen ngắn và luôn đeo kính. \n Cô ấy luôn mỉm cười và có phong thái rất dịu dàng. \n Chúng tôi là bạn thân từ thời thơ ấu, vì vậy chúng tôi hiểu nhau rất rõ. \n Chúng tôi có chung niềm yêu thích thiên nhiên và thường dành những ngày cuối tuần bên nhau để trồng rau và hoa. \n Cô ấy là bạn thân nhất của tôi bởi vì cô ấy vô cùng trung thực, kiên nhẫn, và luôn khuyến khích tôi trở thành một giáo viên và người làm vườn tốt hơn.",
+				"translate": "MAI BÉST FRÉNĐ i-dờ ờ LÊI-ĐI NÊM-tờ LAN, EN SI i-dờ ÓL-xờ ờ PRAI-MỜ-RÌ SKUL TÍC-chờ IN MAI VIL-LỊT-jờ. \n LAN HÉP ờ FRÉNĐ-LÌ RAU-NĐờ PHÊIS, SÓC-Tờ ĐAẠC HE, EN ÓL-UÂY WE RỜ GLÁT-SIT. \n SI i-dờ ÓL-UÂY X-MAIL-ING EN HÉP ờ VE-RÌ JEN-TỒ MA-NỜ. \n WII HÉP BIIN BÉST FRÉNĐ xìn-xờ CHAI-LĐỜ-HÚT, xô WII NÔU Ờ-CHỜ-ĐỜ VE-RÌ WEO. \n WII SHE dờ SÊM LỚP fo NÂY-CHỜ EN ÓF-TỪN X-PEN ÁOỜ WII-KEN TU-GHÉ-ĐỜ PLEN-TING VÉ-JIT-TỜ-BỒL EN FLAU-Ờ. \n SI i-dờ MAI BÉST FRÉNĐ BI-CỐZ SI i-dờ ÍN-CRÉ-ĐI-BLÌ Ó-NÌT, PÊI-SỜN, EN ÓL-UÂY EN-CƠ-RÂY-jít MI tu BII ờ BÉT-TỜ TÍC-chờ EN GÁC-ĐỜ-NỜ."
 			},
 			{
 				"id": 33,
-				"question": "Chủ điểm 8: Talk about one of your house/flat.",
-				"answer": "You should say: \n + Where it is. \n I live in a house in the center of Hanoi. It is near my office and the market. \n + What it looks like. \n There are 7 rooms in my house: 3 bedrooms, a living room, a dining room, a library and one room for my children to play in. \n + Whether you like to live in it or not. \n I love this house so much. This ideal house is the motivation for me to work harder and harder. \n\n Suggested answer: \n I live in a house in the center of Hanoi. \nIt is near my office and the market. \nThe house is big enough for my family to live in. \nThere are 7 rooms in my house: 3 bedrooms, a living room, a dining room, a library and one room for my children to play in. \nAll the rooms in my house are well-equipped with Westernized home decoration. \nIn the front yard there has a medium swimming pool. \nThere is a garden full of flowers and trees in the back yard. \nThis is the place where my family can relax after a hard-working day or organize barbecues at weekends. \nWe plant a lot of fruit trees so that we can have many fruits to eat. \nThis ideal house is the motivation for me to work harder and harder.",
-				"translate": ""
+				"question": "Chủ điểm 8: Talk about one of your house/flat. - Nói về nhà riêng/căn hộ của bạn.",
+				"answer": "You should say: \n + Where it is. \n + What it looks like. \n + Whether you like to live in it or not. \n\n Suggested answer: \n I live in a modest, one-story house located in the quiet outskirts of the village. \n It is a traditional Vietnamese house with a small front porch and a large garden in the back. \n There are four main rooms: a living room, a kitchen, and two bedrooms for our small family. \n The house is simple, but always clean and full of light from the windows overlooking the garden. \n I love living here because it offers peace, fresh air, and enough space for me to pursue my hobby of planting trees and flowers.\n\n[Dịch:]\nTôi sống trong một ngôi nhà một tầng, khiêm tốn, nằm ở vùng ngoại ô yên tĩnh của làng. \n Đó là một ngôi nhà truyền thống của Việt Nam với một hiên nhỏ phía trước và một khu vườn lớn phía sau. \n Có bốn phòng chính: một phòng khách, một nhà bếp và hai phòng ngủ cho gia đình nhỏ của chúng tôi. \n Ngôi nhà đơn giản, nhưng luôn sạch sẽ và tràn ngập ánh sáng từ cửa sổ nhìn ra khu vườn. \n Tôi thích sống ở đây vì nó mang lại sự yên bình, không khí trong lành và đủ không gian để tôi theo đuổi sở thích trồng cây và hoa của mình.",
+				"translate": "AI LÍP IN ờ MÓ-ĐÌT, OAN S-TÓ-RI HAU LÔ-CÂY-TỊT IN dờ KWAI-ẸT AU-TỜ-SKỚC OP dờ VIL-LỊT-jờ. \n ÍT i-dờ ờ TRỜ-ĐÍ-SẦN VI-ẸT-NAM-MÍZ HAU wít ờ SMOL FRÓNT POOC-chờ EN ờ LAẠC-jờ GÁC-ĐỜN IN dờ BÁC. \n DẸ A FO MAIN RUM: ờ LÍP-VING RUM, ờ KÍT-CHÌN, EN TU BÉT-RUM fo ÁOỜ SMOL FA-MỜ-LY. \n Dờ HAU i-dờ SIM-PỒ, bớt ÓL-UÂY CLIN EN FUL OP LAI-Tờ FRÒM dờ WÍN-ĐÔU ÂU-VỜ-LÚC-KING dờ GÁC-ĐỜN. \n AI LỚP LÍP-VING HI-RỜ BI-CỐZ ít ÓF-FỜ PIIS, FRÉSH E, EN ÍN-NẮP X-PÊIS fo MI tu PỜ-XU MAI HÓ-BI OP PLEN-TING TRII EN FLAU-Ờ."
 			},
 			{
 				"id": 34,
-				"question": "Chủ điểm 9: Talk about one of your hobbies.",
-				"answer": "You should say: \n + What it is. \n + Where and when you do it. \n + Why you like doing this. \n\n Suggested answer: \n In my free time, I like doing many things. \nThere are a lot of English football matches at the weekends, so I like watching football on T.V at that time. \nIn the afternoon, I love playing football with my colleagues. \nWe often organize football matches with other offices. \nWhen I am free, I enjoy reading books, especially romantic and detective books. \nEvery Saturday, I go swimming at Ba Dinh swimming pool with my children. \nWe have a lot of fun together. \nAfter that, my family and I often go to the restaurant or to cinema. \nWe are fond of horrible films, action films and cartoons. \nThat is the happiest time in the whole hard-working week.",
-				"translate": ""
+				"question": "Chủ điểm 9: Talk about one of your hobbies. - Nói về một trong những sở thích của bạn.",
+				"answer": "You should say: \n + What it is. \n + Where and when you do it. \n + Why you like doing this. \n\n Suggested answer: \n My main hobby is **gardening and planting flowers**. \n I do this every day, usually in the early morning before school and again in the late afternoon after work. \n I do all the planting and caring right in the **backyard garden** of my home. \n I like this hobby because it connects me with the earth and helps me feel **calm and centered**. \n Seeing the beautiful flowers blossom and the vegetables grow gives me a great sense of peace and **satisfaction**. \n It's the perfect way for a teacher to unwind.\n\n[Dịch:]\nSở thích chính của tôi là **làm vườn và trồng hoa**. \n Tôi làm điều này mỗi ngày, thường là vào sáng sớm trước khi đến trường và lại vào chiều muộn sau khi tan làm. \n Tôi làm tất cả việc trồng trọt và chăm sóc ngay tại **khu vườn sau nhà** của mình. \n Tôi thích sở thích này vì nó kết nối tôi với đất đai và giúp tôi cảm thấy **bình tĩnh và tập trung**. \n Nhìn những bông hoa đẹp nở rộ và rau củ phát triển mang lại cho tôi cảm giác bình yên và **hài lòng** tuyệt vời. \n Đó là cách hoàn hảo để một giáo viên thư giãn.",
+				"translate": "MAI MAIN HÓ-BI i-dờ GÁC-ĐỜ-NING EN PLEN-TING FLAU-Ờ. \n AI ĐU đít ÉP-PỜ-RÌ ĐÂY, IU-ZỜ-LÌ IN dờ Ơ-LÌ MÓC-NING BI-FO SKUL EN Ờ-GHEN IN dờ LÊIT ÁF-TỜ-NUN ÁF-TỜ WOOC. \n AI ĐU ÓL dờ PLEN-TING EN KE-RÌNG rait IN dờ BÁC-DAẠC GÁC-ĐỜN OP MAI HÔM. \n AI LAIK đít HÓ-BI BI-CỐZ ít CỜ-NÉC-Tờ MI wít dờ ỚC-thờ EN HELP MI FIIL CAM EN XEN-TỜ-RỊT. \n XÍ-ING dờ BIU-TI-FUL FLAU-Ờ BLÓS-SỜM EN dờ VÉ-JIT-TỜ-BỒL GRÔU GHÍP MI ờ GRÊIT XEN OP PIIS EN XÁT-TÍT-PHÁC-SỜN. \n ÍT-XỜ dờ PỜ-FÉC-Tờ WEY fo ờ TÍC-chờ tu ĂN-WAIN."
 			},
 			{
 				"id": 35,
-				"question": "Chủ điểm 10: Talk about you hometown/home village.",
-				"answer": "You should say: \n + Where your hometown/home village is. \n My hometown is the capital of Hanoi which is famous for beautiful sceneries and historical places. \n + Famous tourist attraction(s) in your hometown/home village. \n There are a lot of well-known places such as One-pillar pagoda, Sword Lake, Ho Chi Minh Mausoleum and Ancient Quarters. In addition, there are many other interesting places to visit such as Bat Trang Ceramic village or Ha Dong silk village. \n + Whether you like to live in your hometown/home village or not. \n I want to live in Hanoi because that is the place I feel the most peaceful and comfortable. \n\n Suggested answer: \n My hometown is the capital of Hanoi which is famous for beautiful sceneries and historical places. \nHanoi is the center of culture, politics and economy in Vietnam. \nNowadays, Hanoi is widened to Ha Tay and Soc Son province. \nHanoi has a population of over 10 million people. \nMany tourists like visiting well-known places such as One-pillar pagoda, Sword Lake, Ho Chi Minh Mausoleum and Ancient Quarters. \nIn addition, there are many other interesting places to visit such as Bat Trang Ceramic village or Ha Dong silk village. \nHanoians are very friendly, hard-working, hospitable, honest and polite. \nThe food in Hanoi is very delicious and plentiful. \nPeople love to taste special dishes such as Pho and Nem Cuon. \nI love my hometown a lot. \nThat is the place I feel the most peaceful and comfortable.",
-				"translate": ""
+				"question": "Chủ điểm 10: Talk about you hometown/home village. - Nói về quê hương/làng của bạn.",
+				"answer": "You should say: \n + Where your hometown/home village is. \n + Famous tourist attraction(s) in your hometown/home village. \n + Whether you like to live in your hometown/home village or not. \n\n Suggested answer: \n I live in a small, traditional **village in Thai Binh** province, Northern Vietnam. \n Our village is not famous for big tourist attractions, but for its **vast, beautiful rice fields** and ancient communal house. \n People here are very **friendly and supportive**, mostly working in agriculture. \n I love my home village deeply because it is quiet, peaceful, and has a strong sense of community. \n The fresh air and the wide-open space allow me to enjoy my favorite hobby of gardening fully. \n I wouldn't want to live anywhere else.\n\n[Dịch:]\nTôi sống trong một **ngôi làng nhỏ, truyền thống ở tỉnh Thái Bình**, miền Bắc Việt Nam. \n Làng của chúng tôi không nổi tiếng với các điểm du lịch lớn, mà nổi tiếng với **những cánh đồng lúa rộng lớn, tươi đẹp** và ngôi đình cổ kính. \n Người dân ở đây rất **thân thiện và hay giúp đỡ**, chủ yếu làm nông nghiệp. \n Tôi yêu làng quê mình sâu sắc vì nó yên tĩnh, thanh bình và có tinh thần cộng đồng mạnh mẽ. \n Không khí trong lành và không gian rộng mở cho phép tôi tận hưởng trọn vẹn sở thích làm vườn yêu thích của mình. \n Tôi không muốn sống ở bất cứ nơi nào khác.",
+				"translate": "AI LÍP IN ờ SMOL, TRỜ-ĐÍ-SẦN VIL-LỊT-jờ IN THÁI BÌNH PRÓ-VIN-xờ, NÓC-ĐỜN VI-ẸT-NAM. \n ÁOỜ VIL-LỊT-jờ i-dờ NÓT FÊI-MỜ-xờ fo BÍG TU-RÍT ỜT-TRÁC-SỜN, bớt fo ít-XỜ VÁT, BIU-TI-FUL RAIS FIIL-Đờ EN ÊN-SỜN CỜ-MIU-NỒ HAU. \n PII-PỒ hi-rờ a VE-RÌ FRÉNĐ-LÌ EN XÚP-PỌC-TÍP, MÔXT-LÌ WOOC-KING IN É-GRÌ-CỜN-TỜ. \n AI LỚP MAI HÔM VIL-LỊT-jờ ĐÍP-LÌ BI-CỐZ ít i-dờ KWAI-ẸT, PIIS-FUL, EN HÉP ờ S-TRÓNG XEN OP CỜ-MIU-NI-TI. \n Dờ FRÉSH E EN dờ WAI-Đờ-ÔU-PẦN X-PÊIS Ờ-LAU MI tu EN-JOI MAI FÂY-VỜ-RỊT HÓ-BI OP GÁC-ĐỜ-NING FUL-LÌ. \n AI U-ĐẦN WÓNT tu LÍP É-NI-WE ÉL-xờ."
 			}
-        ]
-    },
-    {
-        "title": "Phần IV: Discussion",
-        "qas": [
-            { "id": 36, "question": "---", "answer": "---", "translate": "---" }
-        ]
-    }
-
+		]
+	},
+	{
+		"title": "Phần IV: Discussion",
+		"qas": [
+			{
+				"id": 36,
+				"question": "---",
+				"answer": "---",
+				"translate": "---"
+			}
+		]
+	}
 ]
