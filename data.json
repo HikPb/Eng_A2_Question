@@ -3,6 +3,12 @@
 		"title": "Phần I: Introduction  ",
 		"qas": [
 			{
+				"id": 0,
+				"question": "Giới thiệu bản thân?",
+				"answer": "My name is Chinh.\n\n[Dịch:]\nTên tôi là Chinh.",
+				"translate": "MAI NÊM i-dờ CHINH."
+			},
+			{
 				"id": 1,
 				"question": "What’s your name? - Tên bạn là gì?",
 				"answer": "My name is Chinh.\n\n[Dịch:]\nTên tôi là Chinh.",
@@ -12,19 +18,19 @@
 				"id": 2,
 				"question": "Can you spell your name? - Bạn có thể đánh vần tên của bạn không?",
 				"answer": "It's C H I N H.\n\n[Dịch:]\nLà C H I N H.",
-				"translate": "ÍT SỜ SI, ÉT chờ, AI, EN, ÉT chờ."
+				"translate": "ÍT i-dờ SI, ÉT chi, AI, EN, ÉT chi."
 			},
 			{
 				"id": 3,
 				"question": "Where are you from? - Bạn đến từ đâu?",
 				"answer": "I’m from Ninh Binh, which is a province in the north west of Vietnam.\n\n[Dịch:]\nTôi đến từ Ninh Bình, đó là một tỉnh ở phía tây bắc của Việt Nam.",
-				"translate": "AI EM fròm NINH BÌNH, wích i-dờ ờ PRÓ-VIN-sờ in dờ NOÓC GUÉT ỢP VI-ẸT-NAM."
+				"translate": "AI EM PHỜ-ROM NINH BÌNH, wích i-dờ ơ PỜ-RÓ-VIN in dơ NOÓC GUÉT ỢP VI-ẸT-NAM."
 			},
 			{
 				"id": 4,
 				"question": "What’s your phone number? - Số điện thoại của bạn là gì?",
 				"answer": "It's 0378406088\n\n[Dịch:]\nLà 0378406088",
-				"translate": "ÍT SỜ ZÊ-RÂU, THỜ-RI, SE-VẦN, ẾT, FO, ZÊ-RÂU, SÍC sờ, ZÊ-RÂU, ẾT, ẾT."
+				"translate": "ÍT i-dờ ZÊ-RÔ, THỜ-RI, SE-VẦN, ẾT, PHO, ZÊ-RÔ, SÍCH, ZÊ-RÔ, ẾT, ẾT."
 			},
 			{
 				"id": 5,
@@ -36,61 +42,61 @@
 				"id": 6,
 				"question": "How many brothers and sisters do you have? - Bạn có bao nhiêu anh em/chị em?",
 				"answer": "I have five brothers and one sister.\n\n[Dịch:]\nTôi có năm anh em trai và một chị em gái.",
-				"translate": "AI HÉP FAI BỜ-RƠ-DỜ EN OĂN SÍS-TỜ."
+				"translate": "AI HÉP PHAI BỜ-RƠ-DỜ EN OĂN SÍS-TỜ."
 			},
 			{
 				"id": 7,
 				"question": "What kind of music do you like? - Bạn thích loại nhạc nào?",
 				"answer": "I enjoy listening to traditional Vietnamese folk music.\n\n[Dịch:]\nTôi thích nghe nhạc dân ca truyền thống Việt Nam.",
-				"translate": "AI EN-DOI LÍT ning tu TRỜ-ĐÍ-SỜ-NỒ VI-ẸT-NAM-MÍZ FÔL-Cờ MIU-DÍCH."
+				"translate": "AI EN-DOI LÍT-SỜ-ning tu TRƠ-ĐÍT-SỜ-NỒ VIỆT-NAM-MÍT FÔL-Cờ MIU-DÍCH."
 			},
 			{
 				"id": 8,
 				"question": "What do you like to do in your free time? - Bạn thích làm gì vào thời gian rảnh?",
 				"answer": "I enjoy planting flowers and gardening in my free time.\n\n[Dịch:]\nTôi thích trồng hoa và làm vườn vào thời gian rảnh.",
-				"translate": "AI EN-DOI PỜ-LEN-TING FỜ-LAU-Ờ EN GA-ĐỜ-NING in MAI FỜ-RI THAM."
+				"translate": "AI EN-DOI PỜ-LEN-TINH FỜ-LAU-Ờ EN GA-ĐỜ-NING in MAI FỜ-RI THAM."
 			},
 			{
 				"id": 9,
 				"question": "What sports do you enjoy playing? - Bạn thích chơi môn thể thao nào?",
 				"answer": "I enjoy gentle jogging.\n (At my age, I prefer not to engage in sports that require too much strenuous activity. Light running is a great way to stay active without overdoing it!)\n\n[Dịch:]\nTôi thích chạy bộ nhẹ nhàng.\n (Ở tuổi tôi, tôi không thích tham gia các môn thể thao đòi hỏi quá nhiều hoạt động gắng sức. Chạy nhẹ là một cách tuyệt vời để duy trì sự năng động mà không quá sức!)",
-				"translate": "AI EN-DOI GEN-TỒ JÓC-GING.\n (ẤT MAI ÉI-DỜ, AI PỜ-RI-FƠ NÓT tờ tu ÉN-GÂYJ in SPOÓC đét RÍ-QUAI-Ờ tu MÚCH STRÉN-NI-U-sờ ÉC-TI-VI-TI. LAIT RAN-NING i-dờ ơ GỜ-RẾT GUÂY tu sờ-TÂY ÉC-TÍP wít-ao ÂU-VỜ-ĐUING ÍT!)"
+				"translate": "AI EN-DOI GEN-TỒ JÓC-GING.\n (ẤT MAI ẾT, AI PỜ-RI-FƠ NÓT tu ÉN-GÂY-GI in SỜ-PÓT dát RÍ-QUAI-Ờ tu MẮC SỜ-TRÉN-NI-ÚT ÉC-TI-VI-TI. LAI-RĂN-NING i-dờ ơ GỜ-RẾT GUÂY tu sờ-TÂY ÉC-TÍP Wít-ao ÂU-VỜ-ĐUING ÍT!)"
 			},
 			{
 				"id": 10,
 				"question": "What are your hobbies? - Sở thích của bạn là gì?",
 				"answer": "My hobbies are cooking, gardening, and planting flowers.\n (I find a lot of pleasure in creating things, whether it's a delicious meal or a beautiful garden.)\n\n[Dịch:]\nSở thích của tôi là nấu ăn, làm vườn và trồng hoa.\n (Tôi tìm thấy rất nhiều niềm vui trong việc tạo ra mọi thứ, cho dù đó là một bữa ăn ngon hay một khu vườn xinh đẹp.)",
-				"translate": "MAI HÓ-BI sờ a CÚC-KING, GA-ĐỜ-NING, EN nờ PLEN-TING FLAU-Ờ sờ.\n (AI FAI-N đờ LÓT ÓP PLÉ-ZHỜ in nờ KRÌ-ÊI-TING THINH, WE-ĐỜ ít sờ ờ ĐI-LÍ-SỜ sờ MIU ÓC cờ ờ BIU-TI-FUL GA-ĐỜN.)"
+				"translate": "MAI HÓP-BI a CÚC-KING, GA-ĐỜ-NING, EN PHỜ-LEN-TING FỜ-LAU-Ờ.\n (AI FAI-đờ ơ LÓT ỢP PLÉ-DỜ in nờ CỜ-RÍT-TING THINH, WE-ĐỜ ít i-dờ ơ ĐI-LÍ-SỚT MIU o ơ BIU-TI-FUL GA-ĐỪN.)"
 			},
 			{
 				"id": 11,
 				"question": "How many hours a day do you work? - Một ngày bạn làm việc bao nhiêu tiếng?",
 				"answer": "I work 8 hours a day.\n (The rest of my time is dedicated to taking care of my family.)\n\n[Dịch:]\nTôi làm việc 8 tiếng một ngày.\n (Phần thời gian còn lại của tôi dành để chăm sóc gia đình.)",
-				"translate": "AI GUỐC-cờ ÊIT AO-Ờ ơ ĐÂY.\n (Dờ RÉST ỢP MAI THAM i-dờ ĐE-ĐÌ-CÂY-TỊT tu THẾCH-KINH KE ỢP MAI FA-MỜ-LY.)"
+				"translate": "AI GUỐC-cờ ẾT AO-Ờ ơ ĐÂY.\n (Dờ RÉT ỢP MAI THAM i-dờ ĐE-ĐÌ-CÂY-TỰT tu THẾCH-KINH KE ỢP MAI FA-MỜ-LY.)"
 			},
 			{
 				"id": 12,
 				"question": "Do you live in a house or a flat? - Bạn sống trong nhà riêng hay căn hộ?",
 				"answer": "I live in a house with my family.\n\n[Dịch:]\nTôi sống trong nhà riêng cùng gia đình.",
-				"translate": "AI LÍP pờ in ờ HAU sờ guýt MAI FA-MỜ-LY."
+				"translate": "AI LÍP in ơ HAU guýt MAI FA-MỜ-LY."
 			},
 			{
 				"id": 13,
 				"question": "How many languages can you speak - Bạn có thể nói được bao nhiêu thứ tiếng?",
 				"answer": "I can speak two languages: English and Vietnamese.\n\n[Dịch:]\nTôi có thể nói hai thứ tiếng: Tiếng Anh và Tiếng Việt.",
-				"translate": "AI KEN SPÍC cờ TRU LENG-GUÝCH sờ: ÍNH-LÍCH EN VI-ẸT-NAM-MÍZ."
+				"translate": "AI KEN Sờ-PÍCh-cờ TRU LENG-GUÝCH: ÍNH-LÍCH EN VIệT-NAM-MÍt."
 			},
 			{
 				"id": 14,
 				"question": "Why are you learning English? - Tại sao bạn học tiếng Anh?",
 				"answer": "I am learning English for my work and to better integrate into the globalized world.\n (It's a necessary skill for my professional life and helps me connect with the international community.)\n\n[Dịch:]\nTôi đang học tiếng Anh cho công việc của mình và để hòa nhập tốt hơn vào thế giới toàn cầu hóa.\n (Đó là một kỹ năng cần thiết cho cuộc sống chuyên môn của tôi và giúp tôi kết nối với cộng đồng quốc tế.)",
-				"translate": "AI EM LƠ-NING INH-LÍCH pho MAI GUỐC EN tu BÉT-TỜ ÍN-TỜ-GRÊIT in-tu dờ GLÔ-BỜ-LAI-Z đờ GUÔN.\n (ÍT sờ ờ NÉ-SỜ-XE-RÌ SKIL lờ fo rờ MAI PRÔ-FÉ-SỜ-NỒ LAI p EN HELP sờ MI CỜ-NÉC wít sờ dờ ÍN-TỜ-NÁ-SỜ-NỒ CỜ-MIU-NI-TI.)"
+				"translate": "AI EM LƠN-NING INH-LÍCH pho MAI GUỐC, EN tu BÉT-TỜ ÍN-TỜ-GRÊ-Ít in-tu dờ GLÔ-BỜ-LAI đờ GUÔN.\n (ÍT i-dờ ơ NẾCH-SỜ-XE-RI SỜ-KIN fo AI PRÔ-Phét-SỜ-NỒ LAI EN Hép MI Cô-NẾch guýt dờ IN-TƠ-NÂY-SỜ-NỒ CỜ-MIU-NI-TI.)"
 			},
 			{
 				"id": 15,
 				"question": "What do you enjoy doing in your free time? - Bạn thích làm gì vào thời gian rảnh rỗi?",
 				"answer": "I enjoy gardening, planting trees and flowers, and then watching them to relax.\n (Spending time with nature is a wonderful way to unwind and find peace.)\n\n[Dịch:]\nTôi thích làm vườn, trồng cây và hoa, và sau đó ngắm chúng để thư giãn.\n (Dành thời gian với thiên nhiên là một cách tuyệt vời để thư thái và tìm thấy sự bình yên.)",
-				"translate": "AI EN-DOI GA-ĐỜ-NING, PLEN-TING TRII-sờ EN FLAU-Ờ, EN DEN WÓT-CHING dâm tu RÍ-LÁC sờ.\n (S-PEN-DING THAM wít sờ NÂY-CHỜ i-dờ ờ WĂN-ĐỜ-FUL WEY tu ĂN-WAIN EN nờ FAI-N PIIS.)"
+				"translate": "AI EN-DOI GA-ĐỜ-NING, PHỜ-LEN-TING TRII EN Phờ-LAU-Ờ, EN DEN WÓT-CHING dâm tu RÍ-LÁC sờ.\n (SỜ-PEN-DING THAM wít NÂY-CHỜ i-dờ ơ WĂN-ĐỜ-FUL WEY tu ĂN-Guyn EN FAI-đờ PI-I.)"
 			}
 		]
 	},
@@ -101,19 +107,19 @@
 				"id": 16,
 				"question": "You are at the railway station. You want to ask for the departure time of the train from Hanoi to Haiphong. Make questions. - Bạn đang ở nhà ga xe lửa. Bạn muốn hỏi giờ khởi hành của chuyến tàu từ Hà Nội đi Hải Phòng. Hãy đặt câu hỏi.",
 				"answer": "- What time does the train from Hanoi to Haiphong depart?\n- When does the train depart?\n- What is the departure time?\n\n[Dịch:]\n- Mấy giờ chuyến tàu từ Hà Nội đi Hải Phòng khởi hành?\n- Khi nào tàu khởi hành?\n- Giờ khởi hành là mấy giờ?",
-				"translate": "- WÓT THAM đờ TREIN fròm HÀ NỘI tu HẢI PHÒNG ĐI-PAẠT?\n- WEN đờ TREIN ĐI-PAẠT?\n- WÓT i-dờ dờ ĐI-PAẠT-chờ THAM?"
+				"translate": "- GUẮT THAM đa đờ TRUÊN fờ-rom HÀ NỘI tu HẢI PHÒNG ĐI-PẠT?\n- WEN đa đờ TRUÊN ĐI-PAẠT?\n- GUẮT i-dờ dờ ĐI-PAẠT-chờ THAM?"
 			},
 			{
 				"id": 17,
 				"question": "You are at the supermarket. You want to ask for the price of a T-shirt. Make questions. - Bạn đang ở siêu thị. Bạn muốn hỏi giá một chiếc áo phông. Hãy đặt câu hỏi.",
 				"answer": "- How much does it cost?\n- How much is it?\n- What is the price of this T-shirt?\n\n[Dịch:]\n- Nó giá bao nhiêu?\n- Nó là bao nhiêu tiền?\n- Giá của chiếc áo phông này là bao nhiêu?",
-				"translate": "- HAU MÚCH đờ ít CÓT?\n- HAU MÚCH i-dờ ÍT?\n- WÓT i-dờ dờ PRAI-sờ óp đít TI-SỜT?"
+				"translate": "- HAU MẮC đờ ít CÓT?\n- HAU MẮC i-dờ ÍT?\n- Guắt i-dờ dơ PRAI-sờ ợp đít TI-SỜT?"
 			},
 			{
 				"id": 18,
 				"question": "You want to ask for the way to the police station. Make questions. - Bạn muốn hỏi đường đến đồn cảnh sát. Hãy đặt câu hỏi.",
 				"answer": "- Excuse me, can you show me the way to the police station?\n- Could you tell me the way to get to the police station?\n- How do I get to the police station?\n\n[Dịch:]\n- Xin lỗi, bạn có thể chỉ cho tôi đường đến đồn cảnh sát không?\n- Bạn có thể nói cho tôi biết đường đến đồn cảnh sát được không?\n- Làm cách nào tôi đến được đồn cảnh sát?",
-				"translate": "- ÉC-SỜ-KIU MI, KEN DU SÔ MI dờ WEY tu dờ PỜ-LÍS S-TÊI-SỜN?\n- CÚT DU TEO MI dờ WEY tu GHÉT tu dờ PỜ-LÍS S-TÊI-SỜN?\n- HAU ĐU AI GHÉT tu dờ PỜ-LÍS S-TÊI-SỜN?"
+				"translate": "- ÉC-SỜ-KIU MI, KEN DIU SÂU MI dờ WEY tu dờ PÔ-LÍT SỜ-TÂY-SỜN?\n- CÚT DIU THEO MI dờ WEY tu GHÉT tu dơ PÔ-LÍT SỜ-TÂY-SỜN?\n- HAU ĐU AI GHÉT tu dơ PÔ-LÍT SỜ-TÂY-SỜN?"
 			},
 			{
 				"id": 19,
@@ -131,31 +137,31 @@
 				"id": 21,
 				"question": "You are at the restaurant. You want to have some bread and steak for dinner. Make orders to the waiter/waitress. - Bạn đang ở nhà hàng. Bạn muốn gọi bánh mì và bít tết cho bữa tối. Hãy gọi món với nhân viên phục vụ.",
 				"answer": "- Can I get some bread and steak, please?\n- Can I order some bread and steak, please?\n- I’d like bread and steak.\n- I’ll take/have some bread and steak.\n\n[Dịch:]\n- Tôi có thể gọi bánh mì và bít tết được không?\n- Tôi có thể gọi món bánh mì và bít tết được không?\n- Tôi muốn bánh mì và bít tết.\n- Tôi sẽ dùng bánh mì và bít tết.",
-				"translate": "- KEN AI GHÉT xăm BRÉT EN S-TÊIC, PLI-sờ?\n- KEN AI ÓC-ĐỜ xăm BRÉT EN S-TÊIC, PLI-sờ?\n- AI-Đờ LAIK BRÉT EN S-TÊIC.\n- AI-Lờ TÊIC/HÉP xăm BRÉT EN S-TÊIC."
+				"translate": "- KEN AI GHÉT xăm Bờ-rét EN Sờ-tếch, Pờ-LI-sờ?\n- KEN AI ÓC-ĐỜ xăm BRÉT EN S-TÊIC, PLI-sờ?\n- AI-Đờ LAIK BRÉT EN S-TÊIC.\n- AI-Lờ TÊIC/HÉP xăm BRÉT EN S-TÊIC."
 			},
 			{
 				"id": 22,
 				"question": "You are at the stadium. You want to ask for the time of a football match. Make questions. - Bạn đang ở sân vận động. Bạn muốn hỏi giờ của một trận đấu bóng đá. Hãy đặt câu hỏi.",
 				"answer": "- What is the time of the football match?\n- When does the football match take place/start?\n- What time does the football match end/finish?\n\n[Dịch:]\n- Mấy giờ là trận đấu bóng đá?\n- Khi nào trận đấu bóng đá diễn ra/bắt đầu?\n- Mấy giờ trận đấu bóng đá kết thúc?",
-				"translate": "- WÓT i-dờ dờ THAM óp dờ FUT-BỒL MÉT?\n- WEN đờ dờ FUT-BỒL MÉT TÊIC PLÊIS/S-TAẠT?\n- WÓT THAM đờ dờ FUT-BỒL MÉT EN-Đờ/FI-NÍSH?"
+				"translate": "- WÓT i-dờ dờ THAM ợp dờ Phút-Bôn MÉT?\n- WEN đa dờ FUT-BÔN MÉT THẾCH SỜ-TẠT?\n- WÓT THAM đa dờ FUT-Bôn MÉT FI-NÍT?"
 			},
 			{
 				"id": 23,
 				"question": "You are at the school. You want to ask for time of the English lessons. Make questions. - Bạn đang ở trường học. Bạn muốn hỏi giờ của các buổi học tiếng Anh. Hãy đặt câu hỏi.",
 				"answer": "- What is the time of the English lesson?\n- When does the English lesson take place/start?\n- What time does the English lesson end/finish?\n\n[Dịch:]\n- Mấy giờ là buổi học tiếng Anh?\n- Khi nào buổi học tiếng Anh diễn ra/bắt đầu?\n- Mấy giờ buổi học tiếng Anh kết thúc?",
-				"translate": "- WÓT i-dờ dờ THAM óp dờ ÍNG-LÍSH LÉ-SỜN?\n- WEN đờ dờ ÍNG-LÍSH LÉ-SỜN TÊIC PLÊIS/S-TAẠT?\n- WÓT THAM đờ dờ ÍNG-LÍSH LÉ-SỜN EN-Đờ/FI-NÍSH?"
+				"translate": "- Guắt i-dờ dờ THAM óp dờ Inh-lích Lét-sồn?\n- Guen đa dờ Inh-lích lét-sồn thếch sờ-tát?\n- WÓT THAM đa dờ Inh-lích lét-sồn phi-lít?"
 			},
 			{
 				"id": 24,
 				"question": "You want to ask one of your friends to go to the cinema with you this weekend. How do say to him/her? - Bạn muốn rủ một người bạn đi xem phim với mình cuối tuần này. Bạn sẽ nói với họ như thế nào?",
 				"answer": "- Would you like to go to the cinema with me this weekend?\n- Shall we go to the cinema this weekend?\n- Let’s go to the cinema this weekend!\n- How about/What about going to the cinema with me this weekend?\n\n[Dịch:]\n- Bạn có muốn đi xem phim với tôi cuối tuần này không?\n- Chúng ta đi xem phim cuối tuần này nhé?\n- Đi xem phim cuối tuần này thôi!\n- Đi xem phim với tôi cuối tuần này thì sao?",
-				"translate": "- WÚT DU LAIK tu GÔU tu dờ XI-NỜ-MỜ wít MI đít WII-KEN-Đờ?\n- XEL WII GÔU tu dờ XI-NỜ-MỜ đít WII-KEN-Đờ?\n- LÉTS GÔU tu dờ XI-NỜ-MỜ đít WII-KEN-Đờ!\n- HAU Ờ-BAUT/WÓT Ờ-BAUT GÔU-ING tu dờ XI-NỜ-MỜ wít MI đít WII-KEN-Đờ?"
+				"translate": "- WÚT DU LAI tu Gâu tu dơ XI-NỜ-MỜ guýt MI dít guých-ken-đờ?\n- Seo guy Gâu tu dờ XI-NỜ-MỜ dít Guých-KEN-Đờ?\n- Lét Gâu tu dờ XI-NỜ-MỜ dít Guých-KEN-Đờ!\n- HAU Ơ-Bao/Guắt Ơ-BAO GÂU-INH tu dờ XI-NỜ-MỜ guýt MI đít Guých-KEN-Đờ?"
 			},
 			{
 				"id": 25,
 				"question": "You are at the bookshop. You want to ask for the price of an English-Vietnamese dictionary. Make questions to the assistant. - Bạn đang ở hiệu sách. Bạn muốn hỏi giá một cuốn từ điển Anh-Việt. Hãy đặt câu hỏi với người bán hàng.",
 				"answer": "- How much does it cost?\n- How much is it?\n- What is the price of this English-Vietnamese dictionary?\n\n[Dịch:]\n- Nó giá bao nhiêu?\n- Nó là bao nhiêu tiền?\n- Giá của cuốn từ điển Anh-Việt này là bao nhiêu?",
-				"translate": "- HAU MÚCH đờ ít CÓT?\n- HAU MÚCH i-dờ ÍT?\n- WÓT i-dờ dờ PRAI-sờ óp đít ÍNG-LÍSH-VI-ẸT-NAM-MÍZ ĐÍC-SỜ-NỜ-RI?"
+				"translate": "- HAU MẮC đa ít CÓT?\n- HAU Mắc i-dờ ÍT?\n- Gu0ắt i-dờ dơ PỜ-RAI ợp đít Inh-lích Việt-Nam-mít ĐÍCH-SỜ-NỜ-RI?"
 			}
 		]
 	},
